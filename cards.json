@@ -336,5 +336,44 @@
   "frente": "Decisão de admissibilidade com os dois fundamentos: como impugnar",
   "verso": "(1) **Interposição simultânea**: agravo interno contra o capítulo do repetitivo + AREsp contra o capítulo da inadmissão; (2) **não** são sucessivos: esperar o julgamento do agravo interno faz **precluir** o AREsp; (3) **reclamação** ao STJ **não** serve para controlar a aplicação de tese repetitiva (Corte Especial, Rcl 36.476)",
   "dispositivo": "arts. 1.030, §§ 1º e 2º, e 1.042, CPC"
+ },
+ {
+  "materia": "Processo Civil",
+  "assunto": "Procedimentos especiais",
+  "questao": "Sobre as diferenças e semelhanças entre embargos de terceiro e oposição, assinale a correta.",
+  "gabarito": "C — arts. 674 e 682, CPC",
+  "comentario": "**Correta (C):** na oposição, o terceiro pede para si a coisa ou o direito que autor e réu disputam (art. 682). Nos embargos de terceiro, quem não é parte ataca a constrição judicial sobre bem que possui ou de que é titular (art. 674).\n\n**A:** no CPC/2015 os dois são **procedimentos especiais** (arts. 674 a 686), e não intervenção de terceiros. **B:** só a oposição é julgada na mesma sentença da ação originária (art. 686); os embargos de terceiro têm sentença própria. **D:** os opostos (autor e réu) são **litisconsortes passivos** entre si, citados na oposição; o embargante não é litisconsorte de ninguém, é autor de ação autônoma. **E:** a oposição cabe só **até a sentença** (art. 682); os embargos de terceiro, até o trânsito em julgado no conhecimento ou até 5 dias após a adjudicação, alienação ou arrematação na execução (art. 675).",
+  "criado": "2026-11-18",
+  "macete": "Oposição disputa o direito; embargos de terceiro livram o bem",
+  "id": "c27",
+  "frente": "Par-pegadinha: oposição × embargos de terceiro",
+  "verso": "**Oposição:** terceiro pede para si o bem ou direito **disputado por autor e réu** (art. 682); cabe **até a sentença**; julgada na **mesma sentença**, primeiro a oposição (art. 686). **Embargos de terceiro:** quem não é parte ataca a **constrição judicial** de bem seu (art. 674); **sentença própria**. **Ambos:** procedimentos especiais no CPC/2015, **não** intervenção de terceiros",
+  "dispositivo": "arts. 674 e 682 a 686, CPC"
+ },
+ {
+  "materia": "Processo Civil",
+  "assunto": "Procedimentos especiais",
+  "questao": "Sobre as diferenças e semelhanças entre embargos de terceiro e oposição, assinale a correta.",
+  "gabarito": "C — arts. 674 e 682, CPC",
+  "comentario": "**Correta (C):** na oposição, o terceiro pede para si a coisa ou o direito que autor e réu disputam (art. 682). Nos embargos de terceiro, quem não é parte ataca a constrição judicial sobre bem que possui ou de que é titular (art. 674).\n\n**A:** no CPC/2015 os dois são **procedimentos especiais** (arts. 674 a 686), e não intervenção de terceiros. **B:** só a oposição é julgada na mesma sentença da ação originária (art. 686); os embargos de terceiro têm sentença própria. **D:** os opostos (autor e réu) são **litisconsortes passivos** entre si, citados na oposição; o embargante não é litisconsorte de ninguém, é autor de ação autônoma. **E:** a oposição cabe só **até a sentença** (art. 682); os embargos de terceiro, até o trânsito em julgado no conhecimento ou até 5 dias após a adjudicação, alienação ou arrematação na execução (art. 675).",
+  "criado": "2026-11-18",
+  "macete": "",
+  "id": "c28",
+  "frente": "Embargos de terceiro: prazo",
+  "verso": "(1) **Processo de conhecimento**: a qualquer tempo **até o trânsito em julgado** da sentença; (2) **cumprimento de sentença ou execução**: até **5 dias** depois da adjudicação, da alienação por iniciativa particular ou da arrematação, sempre **antes da assinatura da carta** (art. 675)",
+  "dispositivo": "art. 675, CPC"
+ },
+ {
+  "materia": "Processo Civil",
+  "assunto": "Procedimentos especiais",
+  "questao": "Sobre as diferenças e semelhanças entre embargos de terceiro e oposição, assinale a correta.",
+  "gabarito": "C — arts. 674 e 682, CPC",
+  "comentario": "**Correta (C):** na oposição, o terceiro pede para si a coisa ou o direito que autor e réu disputam (art. 682). Nos embargos de terceiro, quem não é parte ataca a constrição judicial sobre bem que possui ou de que é titular (art. 674).\n\n**A:** no CPC/2015 os dois são **procedimentos especiais** (arts. 674 a 686), e não intervenção de terceiros. **B:** só a oposição é julgada na mesma sentença da ação originária (art. 686); os embargos de terceiro têm sentença própria. **D:** os opostos (autor e réu) são **litisconsortes passivos** entre si, citados na oposição; o embargante não é litisconsorte de ninguém, é autor de ação autônoma. **E:** a oposição cabe só **até a sentença** (art. 682); os embargos de terceiro, até o trânsito em julgado no conhecimento ou até 5 dias após a adjudicação, alienação ou arrematação na execução (art. 675).",
+  "criado": "2026-11-18",
+  "macete": "",
+  "id": "c29",
+  "frente": "Oposição: partes e processamento",
+  "verso": "(1) **Oponente** contra **autor e réu**, que são **litisconsortes passivos** (opostos), citados na pessoa dos advogados (art. 683, parágrafo único); (2) distribuída por **dependência**; (3) cabe **até a sentença** (art. 682); (4) se um dos opostos reconhece o pedido, o processo segue contra o outro (art. 684); (5) julgadas juntas, a oposição é decidida **primeiro** (art. 686)",
+  "dispositivo": "arts. 682 a 686, CPC"
  }
 ]
