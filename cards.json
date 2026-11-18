@@ -375,5 +375,44 @@
   "frente": "Oposição: partes e processamento",
   "verso": "(1) **Oponente** contra **autor e réu**, que são **litisconsortes passivos** (opostos), citados na pessoa dos advogados (art. 683, parágrafo único); (2) distribuída por **dependência**; (3) cabe **até a sentença** (art. 682); (4) se um dos opostos reconhece o pedido, o processo segue contra o outro (art. 684); (5) julgadas juntas, a oposição é decidida **primeiro** (art. 686)",
   "dispositivo": "arts. 682 a 686, CPC"
+ },
+ {
+  "materia": "Direitos Humanos",
+  "assunto": "Direito à saúde",
+  "questao": "Defensoria ajuíza ação pedindo (I) medicamento não incorporado ao SUS, com custo anual de 180 salários mínimos, e (II) insumos (fraldas e dieta enteral), com custo anual de 30 salários mínimos. Qual a competência, à luz do Tema 1.234 do STF?",
+  "gabarito": "B — Tema 1.234/STF (RE 1.366.243); SV 60",
+  "comentario": "**Correta (B):** para fixar a competência, conta-se só o valor dos **medicamentos não incorporados**. O medicamento custa 180 SM por ano, abaixo de **210 SM**, então a causa fica na **Justiça Estadual**. Os insumos não entram na conta.\n\n**A:** não se somam os insumos; na cumulação, só os medicamentos não incorporados contam. **C:** alto custo, por si só, não leva à Justiça Federal; o critério é o patamar de 210 SM, e a cumulação é válida. **D:** o Tema 1.234 não manda intimar a União antes; o juiz verifica o valor e decide. **E:** não há cisão obrigatória, e o valor somado da causa (210 SM) supera o teto de 60 SM do Juizado da Fazenda Pública.",
+  "criado": "2026-11-18",
+  "macete": "210 SM: daí para cima, União e Justiça Federal",
+  "id": "c30",
+  "frente": "Tema 1.234/STF: competência nas ações de medicamento não incorporado",
+  "verso": "(1) Tratamento anual **≥ 210 SM** (preço PMVG/CMED): **Justiça Federal**, com a **União** no polo passivo; (2) abaixo de **210 SM**: **Justiça Estadual**; (3) **cumulação**: conta **só o valor dos medicamentos não incorporados** (insumos e medicamentos incorporados ficam fora); (4) a regra de competência vale só para ações ajuizadas **depois** da publicação do acórdão (modulação)",
+  "dispositivo": "Tema 1.234/STF (RE 1.366.243); SV 60"
+ },
+ {
+  "materia": "Direitos Humanos",
+  "assunto": "Direito à saúde",
+  "questao": "Defensoria ajuíza ação pedindo (I) medicamento não incorporado ao SUS, com custo anual de 180 salários mínimos, e (II) insumos (fraldas e dieta enteral), com custo anual de 30 salários mínimos. Qual a competência, à luz do Tema 1.234 do STF?",
+  "gabarito": "B — Tema 1.234/STF (RE 1.366.243); SV 60",
+  "comentario": "**Correta (B):** para fixar a competência, conta-se só o valor dos **medicamentos não incorporados**. O medicamento custa 180 SM por ano, abaixo de **210 SM**, então a causa fica na **Justiça Estadual**. Os insumos não entram na conta.\n\n**A:** não se somam os insumos; na cumulação, só os medicamentos não incorporados contam. **C:** alto custo, por si só, não leva à Justiça Federal; o critério é o patamar de 210 SM, e a cumulação é válida. **D:** o Tema 1.234 não manda intimar a União antes; o juiz verifica o valor e decide. **E:** não há cisão obrigatória, e o valor somado da causa (210 SM) supera o teto de 60 SM do Juizado da Fazenda Pública.",
+  "criado": "2026-11-18",
+  "macete": "",
+  "id": "c31",
+  "frente": "Tema 1.234/STF: custeio de medicamento não incorporado",
+  "verso": "(1) **≥ 210 SM**: **União paga 100%**; (2) **entre 7 e 210 SM**: Estado paga e a União **ressarce 65%** (oncológicos: **80%**); (3) **abaixo de 7 SM**: custeio do **Estado**",
+  "dispositivo": "Tema 1.234/STF (RE 1.366.243)"
+ },
+ {
+  "materia": "Direitos Humanos",
+  "assunto": "Direito à saúde",
+  "questao": "Defensoria ajuíza ação pedindo (I) medicamento não incorporado ao SUS, com custo anual de 180 salários mínimos, e (II) insumos (fraldas e dieta enteral), com custo anual de 30 salários mínimos. Qual a competência, à luz do Tema 1.234 do STF?",
+  "gabarito": "B — Tema 1.234/STF (RE 1.366.243); SV 60",
+  "comentario": "**Correta (B):** para fixar a competência, conta-se só o valor dos **medicamentos não incorporados**. O medicamento custa 180 SM por ano, abaixo de **210 SM**, então a causa fica na **Justiça Estadual**. Os insumos não entram na conta.\n\n**A:** não se somam os insumos; na cumulação, só os medicamentos não incorporados contam. **C:** alto custo, por si só, não leva à Justiça Federal; o critério é o patamar de 210 SM, e a cumulação é válida. **D:** o Tema 1.234 não manda intimar a União antes; o juiz verifica o valor e decide. **E:** não há cisão obrigatória, e o valor somado da causa (210 SM) supera o teto de 60 SM do Juizado da Fazenda Pública.",
+  "criado": "2026-11-18",
+  "macete": "",
+  "id": "c32",
+  "frente": "Súmulas Vinculantes 60 e 61: saúde",
+  "verso": "**SV 60:** pedido administrativo, judicialização e desdobramentos sobre medicamentos devem observar os **acordos interfederativos homologados no Tema 1.234**. **SV 61:** a concessão judicial de medicamento **registrado na Anvisa e não incorporado** ao SUS deve observar as teses do **Tema 6** (RE 566.471)",
+  "dispositivo": "SV 60 e SV 61, STF"
  }
 ]
