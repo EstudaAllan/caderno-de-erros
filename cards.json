@@ -310,5 +310,31 @@
   "gabarito": "B — art. 477, §3º, CPC",
   "comentario": "**Correta (B):** ainda havendo necessidade de esclarecimentos, a parte deve requerer a intimação do perito para a audiência de instrução, com os quesitos (art. 477, §3º).\n\n**A e C:** não há direito a esclarecimentos escritos sucessivos. **D:** a segunda perícia é faculdade do juiz quando a matéria não estiver esclarecida (art. 480). **E:** a lei não fala em \"uma única vez\"; prevê os esclarecimentos orais em audiência.",
   "criado": "2026-11-18"
+ },
+ {
+  "materia": "Processo Civil",
+  "assunto": "Recursos aos tribunais superiores",
+  "questao": "Acórdão do TJRJ decide duas questões autônomas de direito federal; a parte interpõe REsp contra ambos os capítulos. O Vice-Presidente nega seguimento quanto à primeira questão (acórdão conforme repetitivo do STJ) e inadmite quanto à segunda (falta de prequestionamento). Como impugnar integralmente a decisão?",
+  "gabarito": "D — art. 1.030, §§ 1º e 2º, e art. 1.042, CPC",
+  "comentario": "**Correta (D):** cada capítulo tem seu recurso. Contra a negativa de seguimento com base em repetitivo cabe **agravo interno** ao próprio tribunal (art. 1.030, I, b, e §2º). Contra a inadmissão por outro fundamento, como a falta de prequestionamento, cabe **agravo em recurso especial** ao STJ (art. 1.030, V, e §1º; art. 1.042). Os dois devem ser interpostos **ao mesmo tempo**, no prazo de 15 dias.\n\n**A:** o AREsp não serve contra o capítulo do repetitivo (art. 1.042, caput, ressalva expressamente). **B:** o agravo interno não alcança o capítulo do prequestionamento. **C:** os recursos não são sucessivos; esperar o agravo interno faz precluir o AREsp. **E:** segundo o STJ (Corte Especial, Rcl 36.476), não cabe reclamação para controlar a aplicação de tese repetitiva.",
+  "criado": "2026-11-18",
+  "macete": "Repetitivo fica em casa (agravo interno); o resto sobe (AREsp)",
+  "id": "c25",
+  "frente": "Admissibilidade do REsp/RE na origem: recurso cabível",
+  "verso": "(1) **Negativa de seguimento** por estar o acórdão conforme **repetitivo ou repercussão geral**: **agravo interno** ao próprio tribunal (art. 1.030, I, e §2º); (2) **inadmissão** por outro fundamento (ex.: falta de prequestionamento): **agravo em REsp/RE**, dirigido ao tribunal superior (art. 1.030, V, e §1º; art. 1.042); (3) prazo: **15 dias**",
+  "dispositivo": "arts. 1.030 e 1.042, CPC"
+ },
+ {
+  "materia": "Processo Civil",
+  "assunto": "Recursos aos tribunais superiores",
+  "questao": "Acórdão do TJRJ decide duas questões autônomas de direito federal; a parte interpõe REsp contra ambos os capítulos. O Vice-Presidente nega seguimento quanto à primeira questão (acórdão conforme repetitivo do STJ) e inadmite quanto à segunda (falta de prequestionamento). Como impugnar integralmente a decisão?",
+  "gabarito": "D — art. 1.030, §§ 1º e 2º, e art. 1.042, CPC",
+  "comentario": "**Correta (D):** cada capítulo tem seu recurso. Contra a negativa de seguimento com base em repetitivo cabe **agravo interno** ao próprio tribunal (art. 1.030, I, b, e §2º). Contra a inadmissão por outro fundamento, como a falta de prequestionamento, cabe **agravo em recurso especial** ao STJ (art. 1.030, V, e §1º; art. 1.042). Os dois devem ser interpostos **ao mesmo tempo**, no prazo de 15 dias.\n\n**A:** o AREsp não serve contra o capítulo do repetitivo (art. 1.042, caput, ressalva expressamente). **B:** o agravo interno não alcança o capítulo do prequestionamento. **C:** os recursos não são sucessivos; esperar o agravo interno faz precluir o AREsp. **E:** segundo o STJ (Corte Especial, Rcl 36.476), não cabe reclamação para controlar a aplicação de tese repetitiva.",
+  "criado": "2026-11-18",
+  "macete": "",
+  "id": "c26",
+  "frente": "Decisão de admissibilidade com os dois fundamentos: como impugnar",
+  "verso": "(1) **Interposição simultânea**: agravo interno contra o capítulo do repetitivo + AREsp contra o capítulo da inadmissão; (2) **não** são sucessivos: esperar o julgamento do agravo interno faz **precluir** o AREsp; (3) **reclamação** ao STJ **não** serve para controlar a aplicação de tese repetitiva (Corte Especial, Rcl 36.476)",
+  "dispositivo": "arts. 1.030, §§ 1º e 2º, e 1.042, CPC"
  }
 ]
