@@ -414,5 +414,44 @@
   "frente": "Súmulas Vinculantes 60 e 61: saúde",
   "verso": "**SV 60:** pedido administrativo, judicialização e desdobramentos sobre medicamentos devem observar os **acordos interfederativos homologados no Tema 1.234**. **SV 61:** a concessão judicial de medicamento **registrado na Anvisa e não incorporado** ao SUS deve observar as teses do **Tema 6** (RE 566.471)",
   "dispositivo": "SV 60 e SV 61, STF"
+ },
+ {
+  "criado": "2026-11-18",
+  "questao": "MP ajuíza ação de alimentos para criança contra Renato, apontado como pai. O DNA revela que o pai é Cláudio. Após o saneamento, o MP pede a substituição de Renato por Cláudio no polo passivo, mantendo pedido e causa de pedir. Cláudio invoca a estabilização da demanda (art. 329 do CPC).",
+  "gabarito": "D — art. 329, CPC; STJ, REsp 2.128.955/MS",
+  "comentario": "**Correta (D):** para o STJ, alterar o polo passivo mantendo o pedido e a causa de pedir **não viola o art. 329**, mesmo depois do saneamento e sem autorização do réu (3ª Turma, REsp 2.128.955/MS). O limite é a **sentença de mérito** (REsp 2.236.487/SP).\n\n**A e B:** o art. 329 trata da mudança do pedido e da causa de pedir, não da troca de réu com o mesmo objeto. **C:** o MP tem legitimidade para pedir alimentos em favor de criança ou adolescente, mesmo havendo Defensoria na comarca (Súmula 594/STJ). **E:** não há litisconsórcio forçado entre Renato e Cláudio; Renato simplesmente sai.",
+  "macete": "Art. 329 trava o objeto (pedido e causa de pedir), não o réu",
+  "id": "c33",
+  "materia": "Processo Civil",
+  "assunto": "Procedimento comum",
+  "frente": "Alteração do polo passivo depois do saneamento",
+  "verso": "(1) **Possível**, mesmo **sem anuência do réu**, desde que **mantidos o pedido e a causa de pedir**: não viola o art. 329 (STJ, REsp 2.128.955/MS); (2) fundamentos: economia processual e **primazia do julgamento de mérito**; (3) limite: **não depois da sentença de mérito** (STJ, REsp 2.236.487/SP)",
+  "dispositivo": "art. 329, CPC"
+ },
+ {
+  "criado": "2026-11-18",
+  "questao": "MP ajuíza ação de alimentos para criança contra Renato, apontado como pai. O DNA revela que o pai é Cláudio. Após o saneamento, o MP pede a substituição de Renato por Cláudio no polo passivo, mantendo pedido e causa de pedir. Cláudio invoca a estabilização da demanda (art. 329 do CPC).",
+  "gabarito": "D — art. 329, CPC; STJ, REsp 2.128.955/MS",
+  "comentario": "**Correta (D):** para o STJ, alterar o polo passivo mantendo o pedido e a causa de pedir **não viola o art. 329**, mesmo depois do saneamento e sem autorização do réu (3ª Turma, REsp 2.128.955/MS). O limite é a **sentença de mérito** (REsp 2.236.487/SP).\n\n**A e B:** o art. 329 trata da mudança do pedido e da causa de pedir, não da troca de réu com o mesmo objeto. **C:** o MP tem legitimidade para pedir alimentos em favor de criança ou adolescente, mesmo havendo Defensoria na comarca (Súmula 594/STJ). **E:** não há litisconsórcio forçado entre Renato e Cláudio; Renato simplesmente sai.",
+  "macete": "",
+  "id": "c34",
+  "materia": "Processo Civil",
+  "assunto": "Procedimento comum",
+  "frente": "Estabilização da demanda: alterar pedido ou causa de pedir (art. 329)",
+  "verso": "(1) **Até a citação**: livremente; (2) **da citação até o saneamento**: só com **consentimento do réu**, assegurado o contraditório (prazo mínimo de **15 dias** para manifestação e prova suplementar); (3) **depois do saneamento**: **vedado**; (4) aplica-se também à **reconvenção** e à respectiva causa de pedir",
+  "dispositivo": "art. 329, CPC"
+ },
+ {
+  "criado": "2026-11-18",
+  "questao": "MP ajuíza ação de alimentos para criança contra Renato, apontado como pai. O DNA revela que o pai é Cláudio. Após o saneamento, o MP pede a substituição de Renato por Cláudio no polo passivo, mantendo pedido e causa de pedir. Cláudio invoca a estabilização da demanda (art. 329 do CPC).",
+  "gabarito": "D — art. 329, CPC; STJ, REsp 2.128.955/MS",
+  "comentario": "**Correta (D):** para o STJ, alterar o polo passivo mantendo o pedido e a causa de pedir **não viola o art. 329**, mesmo depois do saneamento e sem autorização do réu (3ª Turma, REsp 2.128.955/MS). O limite é a **sentença de mérito** (REsp 2.236.487/SP).\n\n**A e B:** o art. 329 trata da mudança do pedido e da causa de pedir, não da troca de réu com o mesmo objeto. **C:** o MP tem legitimidade para pedir alimentos em favor de criança ou adolescente, mesmo havendo Defensoria na comarca (Súmula 594/STJ). **E:** não há litisconsórcio forçado entre Renato e Cláudio; Renato simplesmente sai.",
+  "macete": "",
+  "id": "c35",
+  "materia": "Processo Civil",
+  "assunto": "Ministério Público",
+  "frente": "MP e ação de alimentos para criança ou adolescente",
+  "verso": "O MP tem **legitimidade ativa** para ajuizar ação de alimentos em favor de criança ou adolescente, **independentemente** do exercício do poder familiar, de situação de risco ou de haver **Defensoria Pública** na comarca (**Súmula 594/STJ**)",
+  "dispositivo": "Súmula 594/STJ; art. 201, III, ECA"
  }
 ]
