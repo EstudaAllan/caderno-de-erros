@@ -570,5 +570,57 @@
   "frente": "ANPC: momento, negociação e Tribunal de Contas",
   "verso": "(1) Cabe na **investigação**, no **curso da ação** ou na **execução da sentença** (§4º); (2) negociação entre o MP e o investigado ou demandado **com seu defensor** (§5º); (3) a oitiva prévia do **Tribunal de Contas** para apurar o dano (§3º) é **inconstitucional** (STF, ADIs 7.156 e 7.236); (4) descumprido o acordo, fica **impedido de novo acordo por 5 anos** (§7º)",
   "dispositivo": "art. 17-B, §§ 3º a 7º, LIA"
+ },
+ {
+  "questao": "Três situações: (I) moradores individualizáveis com danos à saúde por poluição de córrego, origem comum; (II) tarifa indevida cobrada de todos os usuários de telefonia do Estado, prejuízo idêntico a cada um; (III) prefeito desvia verbas do FUNDEB em contrato superfaturado de merenda. Julgar V/F: I são individuais homogêneos com legitimidade do MP; II é direito difuso com produto ao Fundo; III é improbidade do art. 10 e só o MP pode ajuizar a ação.",
+  "gabarito": "D — V, F, F",
+  "comentario": "**I, verdadeira:** origem comum, titulares e prejuízos individualizáveis = **individuais homogêneos** (art. 81, III, CDC); o MP pode defendê-los quando há **relevância social**.\n\n**II, falsa:** o prejuízo é **divisível** e cada consumidor tem o seu: é **individual homogêneo**, não difuso. Difuso exige titulares indeterminados ligados por circunstância de fato e objeto indivisível. A indenização vai **às vítimas**; o Fundo só recebe o resíduo (art. 100 do CDC).\n\n**III, falsa:** o STF (ADIs 7.042 e 7.043) garantiu legitimidade **concorrente** do MP e da **pessoa jurídica interessada** para a ação de improbidade. O MP não é o único legitimado.",
+  "criado": "2026-11-19",
+  "macete": "Difuso = fato; coletivo = relação jurídica; homogêneo = origem comum e divisível",
+  "id": "c45",
+  "materia": "Difusos e Coletivos",
+  "assunto": "Teoria dos interesses coletivos",
+  "frente": "Direitos transindividuais: classificação (art. 81, parágrafo único, CDC)",
+  "verso": "(1) **Difusos:** titulares **indeterminados**, ligados por **circunstância de fato**, objeto **indivisível**; (2) **Coletivos em sentido estrito:** grupo, categoria ou classe **determinável**, ligado entre si ou com a parte contrária por **relação jurídica base**, objeto **indivisível**; (3) **Individuais homogêneos:** titulares **determináveis**, **origem comum**, objeto **divisível**",
+  "dispositivo": "art. 81, parágrafo único, CDC"
+ },
+ {
+  "questao": "Três situações: (I) moradores individualizáveis com danos à saúde por poluição de córrego, origem comum; (II) tarifa indevida cobrada de todos os usuários de telefonia do Estado, prejuízo idêntico a cada um; (III) prefeito desvia verbas do FUNDEB em contrato superfaturado de merenda. Julgar V/F: I são individuais homogêneos com legitimidade do MP; II é direito difuso com produto ao Fundo; III é improbidade do art. 10 e só o MP pode ajuizar a ação.",
+  "gabarito": "D — V, F, F",
+  "comentario": "**I, verdadeira:** origem comum, titulares e prejuízos individualizáveis = **individuais homogêneos** (art. 81, III, CDC); o MP pode defendê-los quando há **relevância social**.\n\n**II, falsa:** o prejuízo é **divisível** e cada consumidor tem o seu: é **individual homogêneo**, não difuso. Difuso exige titulares indeterminados ligados por circunstância de fato e objeto indivisível. A indenização vai **às vítimas**; o Fundo só recebe o resíduo (art. 100 do CDC).\n\n**III, falsa:** o STF (ADIs 7.042 e 7.043) garantiu legitimidade **concorrente** do MP e da **pessoa jurídica interessada** para a ação de improbidade. O MP não é o único legitimado.",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c46",
+  "materia": "Difusos e Coletivos",
+  "assunto": "Teoria dos interesses coletivos",
+  "frente": "Par-pegadinha: cobrança indevida de todos os consumidores",
+  "verso": "(1) Pedido de **devolução** dos valores: **individuais homogêneos** (cada um recebe o seu); (2) pedido para **cessar a cobrança** ou anular a cláusula: **coletivo em sentido estrito** (indivisível, relação jurídica base); (3) a indenização vai **às vítimas**; o **Fundo** só recebe o resíduo se não houver habilitação compatível em **1 ano** (art. 100, CDC)",
+  "dispositivo": "arts. 81 e 100, CDC"
+ },
+ {
+  "questao": "Três situações: (I) moradores individualizáveis com danos à saúde por poluição de córrego, origem comum; (II) tarifa indevida cobrada de todos os usuários de telefonia do Estado, prejuízo idêntico a cada um; (III) prefeito desvia verbas do FUNDEB em contrato superfaturado de merenda. Julgar V/F: I são individuais homogêneos com legitimidade do MP; II é direito difuso com produto ao Fundo; III é improbidade do art. 10 e só o MP pode ajuizar a ação.",
+  "gabarito": "D — V, F, F",
+  "comentario": "**I, verdadeira:** origem comum, titulares e prejuízos individualizáveis = **individuais homogêneos** (art. 81, III, CDC); o MP pode defendê-los quando há **relevância social**.\n\n**II, falsa:** o prejuízo é **divisível** e cada consumidor tem o seu: é **individual homogêneo**, não difuso. Difuso exige titulares indeterminados ligados por circunstância de fato e objeto indivisível. A indenização vai **às vítimas**; o Fundo só recebe o resíduo (art. 100 do CDC).\n\n**III, falsa:** o STF (ADIs 7.042 e 7.043) garantiu legitimidade **concorrente** do MP e da **pessoa jurídica interessada** para a ação de improbidade. O MP não é o único legitimado.",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c47",
+  "materia": "Difusos e Coletivos",
+  "assunto": "Ação civil pública",
+  "frente": "MP e direitos individuais homogêneos",
+  "verso": "O MP tem legitimidade para defender direitos individuais homogêneos quando houver **relevância social** (natureza do dano, dispersão das vítimas, vulnerabilidade); não precisa ser relação de consumo",
+  "dispositivo": "art. 127 e 129, III, CF; arts. 81 e 82, CDC"
+ },
+ {
+  "questao": "Três situações: (I) moradores individualizáveis com danos à saúde por poluição de córrego, origem comum; (II) tarifa indevida cobrada de todos os usuários de telefonia do Estado, prejuízo idêntico a cada um; (III) prefeito desvia verbas do FUNDEB em contrato superfaturado de merenda. Julgar V/F: I são individuais homogêneos com legitimidade do MP; II é direito difuso com produto ao Fundo; III é improbidade do art. 10 e só o MP pode ajuizar a ação.",
+  "gabarito": "D — V, F, F",
+  "comentario": "**I, verdadeira:** origem comum, titulares e prejuízos individualizáveis = **individuais homogêneos** (art. 81, III, CDC); o MP pode defendê-los quando há **relevância social**.\n\n**II, falsa:** o prejuízo é **divisível** e cada consumidor tem o seu: é **individual homogêneo**, não difuso. Difuso exige titulares indeterminados ligados por circunstância de fato e objeto indivisível. A indenização vai **às vítimas**; o Fundo só recebe o resíduo (art. 100 do CDC).\n\n**III, falsa:** o STF (ADIs 7.042 e 7.043) garantiu legitimidade **concorrente** do MP e da **pessoa jurídica interessada** para a ação de improbidade. O MP não é o único legitimado.",
+  "criado": "2026-11-19",
+  "macete": "MP e o ente lesado: os dois podem",
+  "id": "c48",
+  "materia": "Administrativo",
+  "assunto": "Improbidade administrativa",
+  "frente": "Ação de improbidade: legitimidade ativa",
+  "verso": "(1) A Lei 14.230/2021 previu só o **MP** (art. 17, caput); (2) o STF (ADIs 7.042 e 7.043) deu **interpretação conforme**: legitimidade **concorrente** do **MP** e da **pessoa jurídica interessada**, inclusive para o acordo de não persecução civil",
+  "dispositivo": "art. 17, LIA; ADIs 7.042 e 7.043"
  }
 ]
