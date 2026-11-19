@@ -529,7 +529,46 @@
   "macete": "",
   "id": "c41",
   "frente": "Prescrição na LIA depois da Lei 14.230/2021",
-  "verso": "(1) **8 anos**, contados do **fato** ou, na infração permanente, do dia em que cessou (art. 23); (2) prescrição **intercorrente**: **4 anos** (metade do prazo), contados dos marcos interruptivos; (3) o novo regime **não retroage**: os novos prazos correm a partir da **publicação da lei** (Tema 1.199/STF)",
+  "verso": "(1) **8 anos**, contados do **fato** ou, na infração permanente, do dia em que cessou (art. 23); (2) interrompida a prescrição, o prazo **recomeça por inteiro**: o STF declarou inconstitucional a expressão \"pela metade do prazo\" do §5º (ADIs 7.156 e 7.236, jul/2026), e os marcos interruptivos do §4º são constitucionais; (3) o novo regime **não retroage**: os novos prazos correm a partir da **publicação da lei** (Tema 1.199/STF)",
   "dispositivo": "art. 23, Lei 8.429/92; Tema 1.199/STF"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Improbidade administrativa",
+  "questao": "O MP investiga Marcos, ex-diretor de autarquia estadual, por desvio de R$ 800 mil e vantagem indevida de R$ 150 mil. Antes de qualquer ação, Marcos, com advogado, quer celebrar acordo de não persecução civil (art. 17-B da LIA).",
+  "gabarito": "B — art. 17-B, §1º, LIA",
+  "comentario": "**Correta (B):** o §1º exige, **cumulativamente**: oitiva do ente lesado, aprovação pelo órgão do MP que aprecia arquivamentos de inquérito civil (quando o acordo é anterior à ação) e **homologação judicial**, antes ou depois do ajuizamento. Detalhe: a lei fala em \"ente federativo lesado\", e a banca tratou a autarquia como o ente lesado.\n\n**A:** o acordo cabe também na **execução da sentença** (§4º). **C:** não se exige aceitar as sanções do art. 12; o mínimo é ressarcir o dano e reverter a vantagem. **D:** a negociação é sempre **com o defensor** (§5º). **E:** a multa civil não é resultado obrigatório; o caput exige só ressarcimento integral e reversão da vantagem.",
+  "criado": "2026-11-19",
+  "macete": "Devolve o dano e devolve a vantagem; multa é opcional",
+  "id": "c42",
+  "frente": "ANPC: resultados mínimos (art. 17-B, caput)",
+  "verso": "(1) **Integral ressarcimento** do dano; (2) **reversão** à pessoa jurídica lesada da **vantagem indevida**, ainda que oriunda de agentes privados. **Multa civil não é requisito obrigatório**",
+  "dispositivo": "art. 17-B, caput, LIA"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Improbidade administrativa",
+  "questao": "O MP investiga Marcos, ex-diretor de autarquia estadual, por desvio de R$ 800 mil e vantagem indevida de R$ 150 mil. Antes de qualquer ação, Marcos, com advogado, quer celebrar acordo de não persecução civil (art. 17-B da LIA).",
+  "gabarito": "B — art. 17-B, §1º, LIA",
+  "comentario": "**Correta (B):** o §1º exige, **cumulativamente**: oitiva do ente lesado, aprovação pelo órgão do MP que aprecia arquivamentos de inquérito civil (quando o acordo é anterior à ação) e **homologação judicial**, antes ou depois do ajuizamento. Detalhe: a lei fala em \"ente federativo lesado\", e a banca tratou a autarquia como o ente lesado.\n\n**A:** o acordo cabe também na **execução da sentença** (§4º). **C:** não se exige aceitar as sanções do art. 12; o mínimo é ressarcir o dano e reverter a vantagem. **D:** a negociação é sempre **com o defensor** (§5º). **E:** a multa civil não é resultado obrigatório; o caput exige só ressarcimento integral e reversão da vantagem.",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c43",
+  "frente": "ANPC: requisitos cumulativos de celebração (art. 17-B, §1º)",
+  "verso": "(1) **Oitiva do ente federativo lesado**, antes ou depois da propositura da ação; (2) **aprovação**, em até **60 dias**, pelo órgão do MP competente para apreciar arquivamento de inquérito civil, **se o acordo for anterior ao ajuizamento**; (3) **homologação judicial**, sempre, antes ou depois do ajuizamento",
+  "dispositivo": "art. 17-B, §1º, LIA"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Improbidade administrativa",
+  "questao": "O MP investiga Marcos, ex-diretor de autarquia estadual, por desvio de R$ 800 mil e vantagem indevida de R$ 150 mil. Antes de qualquer ação, Marcos, com advogado, quer celebrar acordo de não persecução civil (art. 17-B da LIA).",
+  "gabarito": "B — art. 17-B, §1º, LIA",
+  "comentario": "**Correta (B):** o §1º exige, **cumulativamente**: oitiva do ente lesado, aprovação pelo órgão do MP que aprecia arquivamentos de inquérito civil (quando o acordo é anterior à ação) e **homologação judicial**, antes ou depois do ajuizamento. Detalhe: a lei fala em \"ente federativo lesado\", e a banca tratou a autarquia como o ente lesado.\n\n**A:** o acordo cabe também na **execução da sentença** (§4º). **C:** não se exige aceitar as sanções do art. 12; o mínimo é ressarcir o dano e reverter a vantagem. **D:** a negociação é sempre **com o defensor** (§5º). **E:** a multa civil não é resultado obrigatório; o caput exige só ressarcimento integral e reversão da vantagem.",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c44",
+  "frente": "ANPC: momento, negociação e Tribunal de Contas",
+  "verso": "(1) Cabe na **investigação**, no **curso da ação** ou na **execução da sentença** (§4º); (2) negociação entre o MP e o investigado ou demandado **com seu defensor** (§5º); (3) a oitiva prévia do **Tribunal de Contas** para apurar o dano (§3º) é **inconstitucional** (STF, ADIs 7.156 e 7.236); (4) descumprido o acordo, fica **impedido de novo acordo por 5 anos** (§7º)",
+  "dispositivo": "art. 17-B, §§ 3º a 7º, LIA"
  }
 ]
