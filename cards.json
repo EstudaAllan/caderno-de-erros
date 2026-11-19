@@ -648,5 +648,31 @@
   "frente": "Ação de conservação de bem tombado: litisconsórcio e perda do objeto",
   "verso": "(1) **Não há litisconsórcio passivo necessário** entre o proprietário e o ente que tombou; (2) no **duplo tombamento** (municipal e estadual), também **não** há litisconsórcio necessário entre Município e Estado; (3) a intenção ou o **início das obras** de restauração **não** gera perda do objeto: só o **cumprimento integral** extingue o interesse processual (STJ, REsp 2.218.969/SP, Info 859)",
   "dispositivo": "STJ, REsp 2.218.969/SP (Info 859)"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Intervenção na propriedade",
+  "questao": "Lei estadual de iniciativa parlamentar, com veto derrubado, tomba 37 edificações do centro histórico da capital e veda demolição e descaracterização. A associação de moradores pede providências ao MP alegando inconstitucionalidade.",
+  "gabarito": "D — STF, ACO 1.208-AgR/MS e ADI 5.670",
+  "comentario": "**Correta (D):** para o STF, o tombamento **pode ser feito por lei**, mas a lei tem caráter **declaratório** e corresponde ao **tombamento provisório**; o Executivo deve depois concluir o procedimento do Decreto-Lei 25/1937, com contraditório e ampla defesa, para o tombamento definitivo (ACO 1.208-AgR/MS; ADI 5.670).\n\n**A:** não há vício de iniciativa: proteger o patrimônio cultural é dever do Poder Público como um todo (art. 216, §1º, CF), e não matéria reservada ao Executivo. **B:** a proteção do patrimônio histórico é competência **concorrente** (art. 24, VII) e comum (art. 23, III). **C:** o STF admite expressamente a lei de efeitos concretos como tombamento provisório. **E:** o STF superou o entendimento de que tombamento só se faz por ato do Executivo.",
+  "criado": "2026-11-19",
+  "macete": "Lei tomba provisoriamente; Executivo tomba definitivamente",
+  "id": "c51",
+  "frente": "Tombamento por lei",
+  "verso": "(1) **É possível** (STF, ACO 1.208-AgR/MS; ADI 5.670); (2) a lei tem caráter **declaratório** e equivale ao **tombamento provisório**; (3) o **Executivo** conclui depois o procedimento do **DL 25/1937**, com **contraditório e ampla defesa**, chegando ao tombamento **definitivo**; (4) **não há vício de iniciativa**: proteger o patrimônio cultural é dever do Poder Público como um todo (art. 216, §1º, CF)",
+  "dispositivo": "art. 216, §1º, CF; DL 25/1937"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Intervenção na propriedade",
+  "questao": "Lei estadual de iniciativa parlamentar, com veto derrubado, tomba 37 edificações do centro histórico da capital e veda demolição e descaracterização. A associação de moradores pede providências ao MP alegando inconstitucionalidade.",
+  "gabarito": "D — STF, ACO 1.208-AgR/MS e ADI 5.670",
+  "comentario": "**Correta (D):** para o STF, o tombamento **pode ser feito por lei**, mas a lei tem caráter **declaratório** e corresponde ao **tombamento provisório**; o Executivo deve depois concluir o procedimento do Decreto-Lei 25/1937, com contraditório e ampla defesa, para o tombamento definitivo (ACO 1.208-AgR/MS; ADI 5.670).\n\n**A:** não há vício de iniciativa: proteger o patrimônio cultural é dever do Poder Público como um todo (art. 216, §1º, CF), e não matéria reservada ao Executivo. **B:** a proteção do patrimônio histórico é competência **concorrente** (art. 24, VII) e comum (art. 23, III). **C:** o STF admite expressamente a lei de efeitos concretos como tombamento provisório. **E:** o STF superou o entendimento de que tombamento só se faz por ato do Executivo.",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c52",
+  "frente": "Patrimônio histórico e cultural: competências",
+  "verso": "(1) **Legislativa concorrente** de União, Estados e DF (art. 24, VII); (2) **material comum** de todos os entes, inclusive Municípios (art. 23, III e IV); (3) Município: promover a proteção do patrimônio **local**, observada a legislação e a fiscalização federal e estadual (art. 30, IX); (4) Estado **pode tombar bem da União** (ACO 1.208)",
+  "dispositivo": "arts. 23, 24, VII, e 30, IX, CF"
  }
 ]
