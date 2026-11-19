@@ -622,5 +622,31 @@
   "frente": "Ação de improbidade: legitimidade ativa",
   "verso": "(1) A Lei 14.230/2021 previu só o **MP** (art. 17, caput); (2) o STF (ADIs 7.042 e 7.043) deu **interpretação conforme**: legitimidade **concorrente** do **MP** e da **pessoa jurídica interessada**, inclusive para o acordo de não persecução civil",
   "dispositivo": "art. 17, LIA; ADIs 7.042 e 7.043"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Intervenção na propriedade",
+  "questao": "Julgado: imóvel de propriedade do Município, com tombamento municipal e estadual. Ação para obrigar à conservação do bem tombado.",
+  "gabarito": "STJ, 2ª Turma, REsp 2.218.969/SP, Rel. Min. Afrânio Vilela, j. 19/8/2025 (Info 859)",
+  "comentario": "A responsabilidade pela conservação do bem tombado é **solidária**, mas a execução recai primeiro sobre o **proprietário**; o órgão que instituiu o tombamento responde de forma **subsidiária**. Não há litisconsórcio passivo necessário entre proprietário e ente que tombou, nem entre Município e Estado no duplo tombamento. A intenção ou o início das obras de restauração não gera perda do objeto: só o cumprimento integral da obrigação extingue o interesse processual.",
+  "criado": "2026-11-19",
+  "macete": "Solidária na responsabilidade, subsidiária na execução",
+  "id": "c49",
+  "frente": "Bem tombado: responsabilidade pela conservação",
+  "verso": "(1) **Solidária** entre o proprietário e o ente que instituiu o tombamento; (2) a execução recai **primeiro sobre o proprietário**; (3) o ente instituidor responde de forma **subsidiária** (STJ, REsp 2.218.969/SP, Info 859)",
+  "dispositivo": "STJ, REsp 2.218.969/SP (Info 859)"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Intervenção na propriedade",
+  "questao": "Julgado: imóvel de propriedade do Município, com tombamento municipal e estadual. Ação para obrigar à conservação do bem tombado.",
+  "gabarito": "STJ, 2ª Turma, REsp 2.218.969/SP, Rel. Min. Afrânio Vilela, j. 19/8/2025 (Info 859)",
+  "comentario": "A responsabilidade pela conservação do bem tombado é **solidária**, mas a execução recai primeiro sobre o **proprietário**; o órgão que instituiu o tombamento responde de forma **subsidiária**. Não há litisconsórcio passivo necessário entre proprietário e ente que tombou, nem entre Município e Estado no duplo tombamento. A intenção ou o início das obras de restauração não gera perda do objeto: só o cumprimento integral da obrigação extingue o interesse processual.",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c50",
+  "frente": "Ação de conservação de bem tombado: litisconsórcio e perda do objeto",
+  "verso": "(1) **Não há litisconsórcio passivo necessário** entre o proprietário e o ente que tombou; (2) no **duplo tombamento** (municipal e estadual), também **não** há litisconsórcio necessário entre Município e Estado; (3) a intenção ou o **início das obras** de restauração **não** gera perda do objeto: só o **cumprimento integral** extingue o interesse processual (STJ, REsp 2.218.969/SP, Info 859)",
+  "dispositivo": "STJ, REsp 2.218.969/SP (Info 859)"
  }
 ]
