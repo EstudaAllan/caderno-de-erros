@@ -453,5 +453,44 @@
   "frente": "MP e ação de alimentos para criança ou adolescente",
   "verso": "O MP tem **legitimidade ativa** para ajuizar ação de alimentos em favor de criança ou adolescente, **independentemente** do exercício do poder familiar, de situação de risco ou de haver **Defensoria Pública** na comarca (**Súmula 594/STJ**)",
   "dispositivo": "Súmula 594/STJ; art. 201, III, ECA"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Agentes públicos",
+  "questao": "Município contrata temporariamente técnicos de enfermagem. Caio, contratado, pede judicialmente a gratificação por risco à saúde paga aos efetivos, que não tem previsão legal para os temporários, e quer a extensão a todos os contratados.",
+  "gabarito": "D — art. 37, X, CF; SV 37; Tema 1.344/STF",
+  "comentario": "**Correta (D):** a remuneração de servidores depende de **lei específica** (art. 37, X), e cada ente tem autonomia para legislar sobre ela. O Judiciário não pode criar ou estender parcelas sob o fundamento de isonomia (**SV 37**). O STF fixou no **Tema 1.344** que o regime remuneratório do temporário é diverso do dos efetivos, sendo vedada a extensão judicial de parcelas de qualquer natureza.\n\n**A e B:** isonomia e proteção ao trabalhador não autorizam o juiz a pagar parcela sem lei (SV 37). **C:** a SV 37 não se limita a reajuste; alcança qualquer aumento de vencimentos por isonomia, inclusive a extensão de gratificações. **E:** é o oposto do Tema 1.344: os regimes são diversos e a extensão judicial é vedada.",
+  "criado": "2026-11-19",
+  "macete": "Temporário não é efetivo: o juiz não estende nada",
+  "id": "c36",
+  "frente": "Contratado temporário: extensão judicial de parcelas dos efetivos (Tema 1.344/STF)",
+  "verso": "(1) O regime remuneratório da contratação temporária é **diverso** do dos servidores efetivos; (2) é **vedada a extensão por decisão judicial** de parcelas **de qualquer natureza**; (3) ressalva: observar o **Tema 551** (previsão legal ou contratual, ou desvirtuamento da contratação)",
+  "dispositivo": "Tema 1.344/STF (RE 1.500.990)"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Agentes públicos",
+  "questao": "Município contrata temporariamente técnicos de enfermagem. Caio, contratado, pede judicialmente a gratificação por risco à saúde paga aos efetivos, que não tem previsão legal para os temporários, e quer a extensão a todos os contratados.",
+  "gabarito": "D — art. 37, X, CF; SV 37; Tema 1.344/STF",
+  "comentario": "**Correta (D):** a remuneração de servidores depende de **lei específica** (art. 37, X), e cada ente tem autonomia para legislar sobre ela. O Judiciário não pode criar ou estender parcelas sob o fundamento de isonomia (**SV 37**). O STF fixou no **Tema 1.344** que o regime remuneratório do temporário é diverso do dos efetivos, sendo vedada a extensão judicial de parcelas de qualquer natureza.\n\n**A e B:** isonomia e proteção ao trabalhador não autorizam o juiz a pagar parcela sem lei (SV 37). **C:** a SV 37 não se limita a reajuste; alcança qualquer aumento de vencimentos por isonomia, inclusive a extensão de gratificações. **E:** é o oposto do Tema 1.344: os regimes são diversos e a extensão judicial é vedada.",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c37",
+  "frente": "Súmula Vinculante 37 e reserva legal da remuneração",
+  "verso": "(1) **SV 37:** não cabe ao Judiciário, que não tem função legislativa, **aumentar vencimentos** de servidores sob o fundamento de **isonomia**; (2) alcança **qualquer** aumento, inclusive a extensão de gratificações, e não só reajuste; (3) a remuneração só é fixada ou alterada por **lei específica**, com iniciativa privativa em cada caso (art. 37, X)",
+  "dispositivo": "SV 37; art. 37, X, CF"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Agentes públicos",
+  "questao": "Município contrata temporariamente técnicos de enfermagem. Caio, contratado, pede judicialmente a gratificação por risco à saúde paga aos efetivos, que não tem previsão legal para os temporários, e quer a extensão a todos os contratados.",
+  "gabarito": "D — art. 37, X, CF; SV 37; Tema 1.344/STF",
+  "comentario": "**Correta (D):** a remuneração de servidores depende de **lei específica** (art. 37, X), e cada ente tem autonomia para legislar sobre ela. O Judiciário não pode criar ou estender parcelas sob o fundamento de isonomia (**SV 37**). O STF fixou no **Tema 1.344** que o regime remuneratório do temporário é diverso do dos efetivos, sendo vedada a extensão judicial de parcelas de qualquer natureza.\n\n**A e B:** isonomia e proteção ao trabalhador não autorizam o juiz a pagar parcela sem lei (SV 37). **C:** a SV 37 não se limita a reajuste; alcança qualquer aumento de vencimentos por isonomia, inclusive a extensão de gratificações. **E:** é o oposto do Tema 1.344: os regimes são diversos e a extensão judicial é vedada.",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c38",
+  "frente": "Temporário: 13º salário e férias com 1/3 (Tema 551/STF)",
+  "verso": "Em regra, **não têm direito**, **salvo**: (1) **previsão legal ou contratual** expressa; ou (2) **desvirtuamento** da contratação pela Administração, por **sucessivas e reiteradas renovações ou prorrogações**",
+  "dispositivo": "Tema 551/STF (RE 1.066.677)"
  }
 ]
