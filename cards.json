@@ -492,5 +492,44 @@
   "frente": "Temporário: 13º salário e férias com 1/3 (Tema 551/STF)",
   "verso": "Em regra, **não têm direito**, **salvo**: (1) **previsão legal ou contratual** expressa; ou (2) **desvirtuamento** da contratação pela Administração, por **sucessivas e reiteradas renovações ou prorrogações**",
   "dispositivo": "Tema 551/STF (RE 1.066.677)"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Improbidade administrativa",
+  "questao": "Caio (servidor efetivo) e Mévio (comissionado, exonerado em março de 2015) montam esquema de propinas com empresas. O MP ajuíza ação de improbidade em abril de 2020 contra os dois e as empresas. Caio alega prescrição pelo prazo de 5 anos da Lei 8.429/1992.",
+  "gabarito": "E — art. 23, II, LIA (redação original); STJ, REsp 2.058.311/RN",
+  "comentario": "**Correta (E):** havendo particular em litisconsórcio com agentes de vínculos diferentes (um efetivo e um comissionado), o STJ aplica ao particular o regime prescricional do **cargo efetivo** (REsp 2.058.311/RN). Caio é efetivo: o prazo dele é o da lei estatutária para falta punível com demissão (art. 23, II), e não os 5 anos do inciso I. A preliminar dele deve ser rejeitada.\n\n**A:** o art. 23, I, valia para mandato, cargo em comissão e função de confiança; Caio é efetivo. **B:** o prazo de 8 anos da Lei 14.230/2021 **não retroage** (Tema 1.199/STF). **C:** a alternativa exclui do processo também as empresas, que seguem o regime do efetivo. **D:** ao particular aplica-se o mesmo regime da LIA, não o art. 205 do CC (Súmula 634/STJ).",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c39",
+  "frente": "Prescrição na LIA, redação original (art. 23)",
+  "verso": "(1) **Mandato, cargo em comissão ou função de confiança:** **5 anos** após o **término** do exercício (inciso I); (2) **cargo efetivo ou emprego:** o prazo da **lei específica** para falta disciplinar punível com **demissão** (inciso II); (3) quem acumula efetivo e comissionado: prevalece o **efetivo**",
+  "dispositivo": "art. 23, I e II, Lei 8.429/92 (redação original)"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Improbidade administrativa",
+  "questao": "Caio (servidor efetivo) e Mévio (comissionado, exonerado em março de 2015) montam esquema de propinas com empresas. O MP ajuíza ação de improbidade em abril de 2020 contra os dois e as empresas. Caio alega prescrição pelo prazo de 5 anos da Lei 8.429/1992.",
+  "gabarito": "E — art. 23, II, LIA (redação original); STJ, REsp 2.058.311/RN",
+  "comentario": "**Correta (E):** havendo particular em litisconsórcio com agentes de vínculos diferentes (um efetivo e um comissionado), o STJ aplica ao particular o regime prescricional do **cargo efetivo** (REsp 2.058.311/RN). Caio é efetivo: o prazo dele é o da lei estatutária para falta punível com demissão (art. 23, II), e não os 5 anos do inciso I. A preliminar dele deve ser rejeitada.\n\n**A:** o art. 23, I, valia para mandato, cargo em comissão e função de confiança; Caio é efetivo. **B:** o prazo de 8 anos da Lei 14.230/2021 **não retroage** (Tema 1.199/STF). **C:** a alternativa exclui do processo também as empresas, que seguem o regime do efetivo. **D:** ao particular aplica-se o mesmo regime da LIA, não o art. 205 do CC (Súmula 634/STJ).",
+  "criado": "2026-11-19",
+  "macete": "Na dúvida entre efetivo e comissionado, vale o efetivo",
+  "id": "c40",
+  "frente": "Improbidade: prescrição com vários réus",
+  "verso": "(1) Conta-se **individualmente** para cada agente (caráter personalíssimo); (2) ao **particular** aplica-se o **mesmo regime** do agente público (**Súmula 634/STJ**), e não o Código Civil; (3) particular com agentes **efetivo e comissionado**: aplica-se o regime do **cargo efetivo** (STJ, REsp 2.058.311/RN)",
+  "dispositivo": "Súmula 634/STJ; REsp 2.058.311/RN"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Improbidade administrativa",
+  "questao": "Caio (servidor efetivo) e Mévio (comissionado, exonerado em março de 2015) montam esquema de propinas com empresas. O MP ajuíza ação de improbidade em abril de 2020 contra os dois e as empresas. Caio alega prescrição pelo prazo de 5 anos da Lei 8.429/1992.",
+  "gabarito": "E — art. 23, II, LIA (redação original); STJ, REsp 2.058.311/RN",
+  "comentario": "**Correta (E):** havendo particular em litisconsórcio com agentes de vínculos diferentes (um efetivo e um comissionado), o STJ aplica ao particular o regime prescricional do **cargo efetivo** (REsp 2.058.311/RN). Caio é efetivo: o prazo dele é o da lei estatutária para falta punível com demissão (art. 23, II), e não os 5 anos do inciso I. A preliminar dele deve ser rejeitada.\n\n**A:** o art. 23, I, valia para mandato, cargo em comissão e função de confiança; Caio é efetivo. **B:** o prazo de 8 anos da Lei 14.230/2021 **não retroage** (Tema 1.199/STF). **C:** a alternativa exclui do processo também as empresas, que seguem o regime do efetivo. **D:** ao particular aplica-se o mesmo regime da LIA, não o art. 205 do CC (Súmula 634/STJ).",
+  "criado": "2026-11-19",
+  "macete": "",
+  "id": "c41",
+  "frente": "Prescrição na LIA depois da Lei 14.230/2021",
+  "verso": "(1) **8 anos**, contados do **fato** ou, na infração permanente, do dia em que cessou (art. 23); (2) prescrição **intercorrente**: **4 anos** (metade do prazo), contados dos marcos interruptivos; (3) o novo regime **não retroage**: os novos prazos correm a partir da **publicação da lei** (Tema 1.199/STF)",
+  "dispositivo": "art. 23, Lei 8.429/92; Tema 1.199/STF"
  }
 ]
