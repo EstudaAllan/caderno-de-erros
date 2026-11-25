@@ -674,5 +674,31 @@
   "frente": "Patrimônio histórico e cultural: competências",
   "verso": "(1) **Legislativa concorrente** de União, Estados e DF (art. 24, VII); (2) **material comum** de todos os entes, inclusive Municípios (art. 23, III e IV); (3) Município: promover a proteção do patrimônio **local**, observada a legislação e a fiscalização federal e estadual (art. 30, IX); (4) Estado **pode tombar bem da União** (ACO 1.208)",
   "dispositivo": "arts. 23, 24, VII, e 30, IX, CF"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Licitações",
+  "questao": "Hospital público, em situação emergencial, pretende contratação direta para manter serviço essencial. Segundo a Lei 14.133/2021, qual o alcance da contratação emergencial?",
+  "gabarito": "B — art. 75, VIII, Lei 14.133/2021",
+  "comentario": "**Correta (B):** a dispensa emergencial cobre só os **bens necessários** à emergência e as **parcelas de obras e serviços** que possam ser concluídas em **até 1 ano**, contado da **ocorrência** da emergência ou calamidade (art. 75, VIII).\n\n**A:** não alcança bens e serviços sem relação direta com a emergência. **C:** não cobre todo o funcionamento do hospital; o limite é o necessário à emergência. **D:** o prazo conta da **ocorrência** da emergência, não da assinatura do contrato.",
+  "criado": "2026-11-25",
+  "macete": "1 ano da ocorrência, sem prorrogar e sem recontratar",
+  "id": "c53",
+  "frente": "Dispensa por emergência ou calamidade (Lei 14.133/2021)",
+  "verso": "(1) Só os **bens necessários** à situação emergencial e as **parcelas de obras e serviços** concluíveis em até **1 ano**; (2) prazo contado da **ocorrência** da emergência ou calamidade, e não da assinatura; (3) **vedadas a prorrogação** do contrato e a **recontratação** da mesma empresa com base nesse inciso (art. 75, VIII)",
+  "dispositivo": "art. 75, VIII, Lei 14.133/2021"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Licitações",
+  "questao": "Hospital público, em situação emergencial, pretende contratação direta para manter serviço essencial. Segundo a Lei 14.133/2021, qual o alcance da contratação emergencial?",
+  "gabarito": "B — art. 75, VIII, Lei 14.133/2021",
+  "comentario": "**Correta (B):** a dispensa emergencial cobre só os **bens necessários** à emergência e as **parcelas de obras e serviços** que possam ser concluídas em **até 1 ano**, contado da **ocorrência** da emergência ou calamidade (art. 75, VIII).\n\n**A:** não alcança bens e serviços sem relação direta com a emergência. **C:** não cobre todo o funcionamento do hospital; o limite é o necessário à emergência. **D:** o prazo conta da **ocorrência** da emergência, não da assinatura do contrato.",
+  "criado": "2026-11-25",
+  "macete": "",
+  "id": "c54",
+  "frente": "Par-pegadinha: emergencial na Lei 8.666 × Lei 14.133",
+  "verso": "**Lei 8.666/93:** até **180 dias** consecutivos e ininterruptos, da ocorrência, vedada a prorrogação (art. 24, IV). **Lei 14.133/21:** até **1 ano**, da ocorrência, vedadas a prorrogação e a **recontratação** da mesma empresa (art. 75, VIII)",
+  "dispositivo": "art. 75, VIII, Lei 14.133/2021; art. 24, IV, Lei 8.666/93"
  }
 ]
