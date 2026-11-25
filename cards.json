@@ -700,5 +700,57 @@
   "frente": "Par-pegadinha: emergencial na Lei 8.666 × Lei 14.133",
   "verso": "**Lei 8.666/93:** até **180 dias** consecutivos e ininterruptos, da ocorrência, vedada a prorrogação (art. 24, IV). **Lei 14.133/21:** até **1 ano**, da ocorrência, vedadas a prorrogação e a **recontratação** da mesma empresa (art. 75, VIII)",
   "dispositivo": "art. 75, VIII, Lei 14.133/2021; art. 24, IV, Lei 8.666/93"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Organização administrativa",
+  "questao": "O Estado pretende instituir sociedade de economia mista. Há dúvidas sobre a autorização legislativa, a vinculação às finalidades que justificaram a criação e a extinção da entidade.",
+  "gabarito": "A — art. 37, XIX, CF; art. 45, CC",
+  "comentario": "**Correta (A):** a lei específica só **autoriza** a instituição (art. 37, XIX); a personalidade nasce com o **registro dos atos constitutivos** (art. 45 do CC). A entidade fica presa às finalidades da lei (**princípio da especialidade**) e só pode ser extinta com **autorização legislativa** (paralelismo das formas).\n\n**B:** lei que cria diretamente é a da **autarquia**. **C:** a autorização legislativa é **prévia**. **D:** a personalidade de direito privado não a desvincula das finalidades legais. **E:** a extinção depende de lei, não só dos acionistas.",
+  "criado": "2026-11-25",
+  "macete": "Lei autoriza, registro cria, lei extingue",
+  "id": "c55",
+  "frente": "Empresa pública e sociedade de economia mista: criação e extinção",
+  "verso": "(1) **Lei específica autoriza** a instituição (art. 37, XIX, CF); (2) a personalidade jurídica nasce com o **registro dos atos constitutivos** (art. 45, CC); (3) fica vinculada às finalidades da lei (**especialidade**); (4) a **extinção** também depende de **autorização legislativa** (paralelismo das formas)",
+  "dispositivo": "art. 37, XIX, CF; art. 45, CC"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Organização administrativa",
+  "questao": "O Estado pretende instituir sociedade de economia mista. Há dúvidas sobre a autorização legislativa, a vinculação às finalidades que justificaram a criação e a extinção da entidade.",
+  "gabarito": "A — art. 37, XIX, CF; art. 45, CC",
+  "comentario": "**Correta (A):** a lei específica só **autoriza** a instituição (art. 37, XIX); a personalidade nasce com o **registro dos atos constitutivos** (art. 45 do CC). A entidade fica presa às finalidades da lei (**princípio da especialidade**) e só pode ser extinta com **autorização legislativa** (paralelismo das formas).\n\n**B:** lei que cria diretamente é a da **autarquia**. **C:** a autorização legislativa é **prévia**. **D:** a personalidade de direito privado não a desvincula das finalidades legais. **E:** a extinção depende de lei, não só dos acionistas.",
+  "criado": "2026-11-25",
+  "macete": "",
+  "id": "c56",
+  "frente": "Par-pegadinha: autarquia × empresa estatal e fundação",
+  "verso": "**Autarquia:** **criada** diretamente por lei específica. **Empresa pública, sociedade de economia mista e fundação:** lei específica só **autoriza** a instituição; **lei complementar** define as áreas de atuação da fundação (art. 37, XIX, CF)",
+  "dispositivo": "art. 37, XIX, CF"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Organização administrativa",
+  "questao": "O Estado pretende instituir sociedade de economia mista. Há dúvidas sobre a autorização legislativa, a vinculação às finalidades que justificaram a criação e a extinção da entidade.",
+  "gabarito": "A — art. 37, XIX, CF; art. 45, CC",
+  "comentario": "**Correta (A):** a lei específica só **autoriza** a instituição (art. 37, XIX); a personalidade nasce com o **registro dos atos constitutivos** (art. 45 do CC). A entidade fica presa às finalidades da lei (**princípio da especialidade**) e só pode ser extinta com **autorização legislativa** (paralelismo das formas).\n\n**B:** lei que cria diretamente é a da **autarquia**. **C:** a autorização legislativa é **prévia**. **D:** a personalidade de direito privado não a desvincula das finalidades legais. **E:** a extinção depende de lei, não só dos acionistas.",
+  "criado": "2026-11-25",
+  "macete": "",
+  "id": "c57",
+  "frente": "Estatais: subsidiárias e alienação de controle",
+  "verso": "(1) Criar **subsidiárias** depende de autorização legislativa, mas basta **previsão genérica** na lei que criou a matriz (art. 37, XX; STF, ADI 1.649); (2) vender o **controle acionário da matriz** exige **lei**; (3) vender o controle de **subsidiárias e controladas** **dispensa lei e licitação**, observados os princípios da Administração e a competitividade (STF, ADI 5.624)",
+  "dispositivo": "art. 37, XX, CF; ADIs 1.649 e 5.624"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Organização administrativa",
+  "questao": "O Estado pretende instituir sociedade de economia mista. Há dúvidas sobre a autorização legislativa, a vinculação às finalidades que justificaram a criação e a extinção da entidade.",
+  "gabarito": "A — art. 37, XIX, CF; art. 45, CC",
+  "comentario": "**Correta (A):** a lei específica só **autoriza** a instituição (art. 37, XIX); a personalidade nasce com o **registro dos atos constitutivos** (art. 45 do CC). A entidade fica presa às finalidades da lei (**princípio da especialidade**) e só pode ser extinta com **autorização legislativa** (paralelismo das formas).\n\n**B:** lei que cria diretamente é a da **autarquia**. **C:** a autorização legislativa é **prévia**. **D:** a personalidade de direito privado não a desvincula das finalidades legais. **E:** a extinção depende de lei, não só dos acionistas.",
+  "criado": "2026-11-25",
+  "macete": "",
+  "id": "c58",
+  "frente": "Sociedade de economia mista: forma e controle",
+  "verso": "(1) Forma obrigatória de **sociedade anônima**; (2) **maioria das ações com direito a voto** pertence ao ente federativo ou à administração indireta (art. 4º, Lei 13.303/2016); (3) empresa pública: capital **integralmente público**, qualquer forma societária (art. 3º)",
+  "dispositivo": "arts. 3º e 4º, Lei 13.303/2016"
  }
 ]
