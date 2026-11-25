@@ -817,5 +817,31 @@
   "frente": "Par-pegadinha: SV 12 × Tema 535",
   "verso": "**SV 12:** a cobrança de **taxa de matrícula** nas universidades públicas **viola** o art. 206, IV (ensino regular). **Tema 535:** a cobrança de **mensalidade em especialização** é **permitida**. O que muda é o **curso**, não a instituição",
   "dispositivo": "SV 12; Tema 535/STF"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Intervenção na propriedade",
+  "questao": "Lei estadual tomba imóvel de uso especial da União, onde funciona autarquia federal. A União alega injuridicidade do ato.",
+  "gabarito": "C — arts. 23, III, 24, VII, e 216, §1º, CF; STF, ACO 1.208-AgR",
+  "comentario": "**Correta (C):** a proteção do patrimônio histórico e cultural é competência **material comum** (art. 23, III) e **legislativa concorrente** (art. 24, VII); o Estado pode tombar bem da União, e pode fazê-lo por lei, em caráter provisório (STF, ACO 1.208-AgR).\n\n**A:** a hierarquia verticalizada é regra da **desapropriação** (DL 3.365/41) e **não se aplica** ao tombamento (DL 25/37). **B e D:** a competência sobre patrimônio cultural **não é privativa** da União. **E:** é a tese superada; o STF admite o tombamento por lei como **fase provisória**, cabendo ao Executivo o tombamento definitivo.",
+  "criado": "2026-11-25",
+  "macete": "Tombamento não tem hierarquia: o menor tomba o maior",
+  "id": "c64",
+  "frente": "Tombamento de bem público: hierarquia verticalizada",
+  "verso": "(1) A hierarquia verticalizada (DL 3.365/41) **não se aplica** ao tombamento (DL 25/37); (2) logo, **Estado pode tombar bem da União**, e Município pode tombar bem do Estado; (3) o tombamento **provisório por lei** **dispensa notificação prévia** da União, exigida só no procedimento **definitivo** do Executivo (STF, ACO 1.208-AgR)",
+  "dispositivo": "DL 25/1937; STF, ACO 1.208-AgR"
+ },
+ {
+  "materia": "Administrativo",
+  "assunto": "Intervenção na propriedade",
+  "questao": "Lei estadual tomba imóvel de uso especial da União, onde funciona autarquia federal. A União alega injuridicidade do ato.",
+  "gabarito": "C — arts. 23, III, 24, VII, e 216, §1º, CF; STF, ACO 1.208-AgR",
+  "comentario": "**Correta (C):** a proteção do patrimônio histórico e cultural é competência **material comum** (art. 23, III) e **legislativa concorrente** (art. 24, VII); o Estado pode tombar bem da União, e pode fazê-lo por lei, em caráter provisório (STF, ACO 1.208-AgR).\n\n**A:** a hierarquia verticalizada é regra da **desapropriação** (DL 3.365/41) e **não se aplica** ao tombamento (DL 25/37). **B e D:** a competência sobre patrimônio cultural **não é privativa** da União. **E:** é a tese superada; o STF admite o tombamento por lei como **fase provisória**, cabendo ao Executivo o tombamento definitivo.",
+  "criado": "2026-11-25",
+  "macete": "",
+  "id": "c65",
+  "frente": "Par-pegadinha: desapropriação × tombamento de bem público",
+  "verso": "**Desapropriação:** vale a **hierarquia verticalizada**: União desapropria bens de Estados e Municípios; Estados, de Municípios; **nunca o inverso** (art. 2º, §2º, DL 3.365/41). **Tombamento:** **sem hierarquia**; qualquer ente pode tombar bem de outro (ACO 1.208-AgR)",
+  "dispositivo": "art. 2º, §2º, DL 3.365/41; DL 25/37"
  }
 ]
