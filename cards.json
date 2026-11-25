@@ -843,5 +843,31 @@
   "frente": "Par-pegadinha: desapropriação × tombamento de bem público",
   "verso": "**Desapropriação:** vale a **hierarquia verticalizada**: União desapropria bens de Estados e Municípios; Estados, de Municípios; **nunca o inverso** (art. 2º, §2º, DL 3.365/41). **Tombamento:** **sem hierarquia**; qualquer ente pode tombar bem de outro (ACO 1.208-AgR)",
   "dispositivo": "art. 2º, §2º, DL 3.365/41; DL 25/37"
+ },
+ {
+  "materia": "Constitucional",
+  "assunto": "Fiscalização e Tribunal de Contas",
+  "questao": "Regimento interno da Câmara Municipal prevê que, havendo parecer favorável do Tribunal de Contas e nenhum vereador pedindo a análise do plenário em 30 dias, as contas de governo do prefeito são consideradas aprovadas. Vereadora impetra MS.",
+  "gabarito": "C — art. 31, §§ 1º e 2º, CF; STF, Tema 157 (RE 729.744)",
+  "comentario": "**Correta (C):** o julgamento das contas do prefeito é competência **exclusiva da Câmara**; o parecer do Tribunal de Contas é **prévio e opinativo**. O STF veda o **julgamento ficto por decurso de prazo** (Tema 157). O art. X faria o parecer virar decisão definitiva sem a Câmara votar.\n\n**A:** a regra viola a CF, então não é matéria interna corporis imune ao Judiciário. **B:** nem a lei orgânica poderia prever julgamento ficto. **D:** a vedação vale para as contas de governo e de gestão do prefeito. **E:** a eficácia reforçada (2/3 para derrubar o parecer) pressupõe **votação** da Câmara; o silêncio não é julgamento.",
+  "criado": "2026-11-25",
+  "macete": "Parecer opina, Câmara julga, silêncio não aprova",
+  "id": "c66",
+  "frente": "Contas do prefeito: quem julga e como",
+  "verso": "(1) Julgamento **exclusivo da Câmara Municipal** (art. 31, §1º); (2) o parecer prévio do Tribunal de Contas é **opinativo**, mas só **deixa de prevalecer por 2/3** dos vereadores (art. 31, §2º); (3) **vedado o julgamento ficto** por decurso de prazo (STF, **Tema 157**); (4) para fins de inelegibilidade, a Câmara julga as contas de **governo e de gestão** do prefeito (STF, **Tema 835**)",
+  "dispositivo": "art. 31, §§ 1º e 2º, CF; Temas 157 e 835/STF"
+ },
+ {
+  "materia": "Constitucional",
+  "assunto": "Fiscalização e Tribunal de Contas",
+  "questao": "Regimento interno da Câmara Municipal prevê que, havendo parecer favorável do Tribunal de Contas e nenhum vereador pedindo a análise do plenário em 30 dias, as contas de governo do prefeito são consideradas aprovadas. Vereadora impetra MS.",
+  "gabarito": "C — art. 31, §§ 1º e 2º, CF; STF, Tema 157 (RE 729.744)",
+  "comentario": "**Correta (C):** o julgamento das contas do prefeito é competência **exclusiva da Câmara**; o parecer do Tribunal de Contas é **prévio e opinativo**. O STF veda o **julgamento ficto por decurso de prazo** (Tema 157). O art. X faria o parecer virar decisão definitiva sem a Câmara votar.\n\n**A:** a regra viola a CF, então não é matéria interna corporis imune ao Judiciário. **B:** nem a lei orgânica poderia prever julgamento ficto. **D:** a vedação vale para as contas de governo e de gestão do prefeito. **E:** a eficácia reforçada (2/3 para derrubar o parecer) pressupõe **votação** da Câmara; o silêncio não é julgamento.",
+  "criado": "2026-11-25",
+  "macete": "",
+  "id": "c67",
+  "frente": "Par-pegadinha: contas do prefeito × contas do Presidente",
+  "verso": "**Prefeito:** julgadas pela **Câmara**; o parecer prévio do TC só cai por **2/3** dos vereadores (eficácia reforçada, art. 31, §2º). **Presidente:** julgadas pelo **Congresso** (art. 49, IX); o TCU emite parecer prévio em **60 dias** (art. 71, I), **sem** quórum qualificado para afastá-lo",
+  "dispositivo": "arts. 31, 49, IX, e 71, I, CF"
  }
 ]
