@@ -791,5 +791,31 @@
   "frente": "Lei Anticorrupção: sanções administrativas à pessoa jurídica",
   "verso": "(1) **Multa** de **0,1% a 20% do faturamento bruto** do exercício anterior ao da instauração do processo, nunca inferior à vantagem auferida (art. 6º, I); (2) **publicação extraordinária** da decisão condenatória (art. 6º, II); (3) responsabilidade **objetiva** da pessoa jurídica (art. 1º); (4) as sanções **não excluem** a reparação integral do dano",
   "dispositivo": "arts. 1º e 6º, Lei 12.846/2013"
+ },
+ {
+  "materia": "Constitucional",
+  "assunto": "Ordem social",
+  "questao": "Instituição oficial de ensino oferece cursos de extensão e de especialização (pós-graduação lato sensu) e decide cobrar matrícula e mensalidades. A cobrança é lícita?",
+  "gabarito": "A — Tema 535/STF (RE 597.854); art. 206, IV, CF",
+  "comentario": "**Correta (A):** a gratuidade do ensino público oficial (art. 206, IV) não impede a cobrança em cursos de **especialização** e de **extensão**, que não integram o ensino regular. O STF fixou no **Tema 535** que universidade pública pode cobrar mensalidade em especialização.\n\n**B:** o que importa é a **natureza do curso**, não a da instituição. **C:** não há distinção entre matrícula e mensalidade nesses cursos; a SV 12 trata da matrícula no ensino regular. **D e E:** a licitude não depende de a instituição ser universidade nem de receber recursos públicos.",
+  "criado": "2026-11-25",
+  "macete": "Especialização e extensão podem cobrar",
+  "id": "c62",
+  "frente": "Gratuidade do ensino público: cursos de especialização e extensão",
+  "verso": "(1) A gratuidade do ensino público oficial (art. 206, IV) **não impede** a cobrança de **mensalidade** em cursos de **especialização** (pós lato sensu) (STF, **Tema 535**, RE 597.854); (2) o critério é a **natureza do curso**, que não integra o ensino regular, e não a natureza da instituição; (3) o mesmo raciocínio vale para cursos de **extensão**",
+  "dispositivo": "art. 206, IV, CF; Tema 535/STF"
+ },
+ {
+  "materia": "Constitucional",
+  "assunto": "Ordem social",
+  "questao": "Instituição oficial de ensino oferece cursos de extensão e de especialização (pós-graduação lato sensu) e decide cobrar matrícula e mensalidades. A cobrança é lícita?",
+  "gabarito": "A — Tema 535/STF (RE 597.854); art. 206, IV, CF",
+  "comentario": "**Correta (A):** a gratuidade do ensino público oficial (art. 206, IV) não impede a cobrança em cursos de **especialização** e de **extensão**, que não integram o ensino regular. O STF fixou no **Tema 535** que universidade pública pode cobrar mensalidade em especialização.\n\n**B:** o que importa é a **natureza do curso**, não a da instituição. **C:** não há distinção entre matrícula e mensalidade nesses cursos; a SV 12 trata da matrícula no ensino regular. **D e E:** a licitude não depende de a instituição ser universidade nem de receber recursos públicos.",
+  "criado": "2026-11-25",
+  "macete": "",
+  "id": "c63",
+  "frente": "Par-pegadinha: SV 12 × Tema 535",
+  "verso": "**SV 12:** a cobrança de **taxa de matrícula** nas universidades públicas **viola** o art. 206, IV (ensino regular). **Tema 535:** a cobrança de **mensalidade em especialização** é **permitida**. O que muda é o **curso**, não a instituição",
+  "dispositivo": "SV 12; Tema 535/STF"
  }
 ]
