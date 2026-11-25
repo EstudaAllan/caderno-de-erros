@@ -752,5 +752,44 @@
   "frente": "Sociedade de economia mista: forma e controle",
   "verso": "(1) Forma obrigatória de **sociedade anônima**; (2) **maioria das ações com direito a voto** pertence ao ente federativo ou à administração indireta (art. 4º, Lei 13.303/2016); (3) empresa pública: capital **integralmente público**, qualquer forma societária (art. 3º)",
   "dispositivo": "arts. 3º e 4º, Lei 13.303/2016"
+ },
+ {
+  "questao": "Empresa vencedora de licitação estadual é investigada por conluio para fraudar o caráter competitivo do certame. A conduta é infração da Lei 14.133/2021 e ato lesivo da Lei 12.846/2013. Qual o procedimento?",
+  "gabarito": "B — art. 159, Lei 14.133/2021",
+  "comentario": "**Correta (B):** quando a mesma conduta é infração da Lei de Licitações e ato lesivo da Lei Anticorrupção, a apuração e o julgamento são **conjuntos, nos mesmos autos**, com o **rito e a autoridade competente da Lei 12.846/2013** (art. 159).\n\n**A e D:** a Lei 14.133 manda seguir o rito da Lei Anticorrupção, não o próprio. **C:** não há processos separados; a apuração é conjunta. **E:** há previsão expressa (art. 159), e não se cria procedimento novo.",
+  "criado": "2026-11-25",
+  "macete": "Conduta dupla, processo único, rito da Anticorrupção",
+  "id": "c59",
+  "materia": "Administrativo",
+  "assunto": "Licitações",
+  "frente": "Infração da Lei 14.133 que também é ato lesivo da Lei Anticorrupção",
+  "verso": "(1) Apuração e julgamento **conjuntos, nos mesmos autos**; (2) seguem o **rito** e a **autoridade competente** da **Lei 12.846/2013** (PAR); (3) a aplicação das sanções da Lei 14.133 **não afeta** os processos de responsabilização da Lei Anticorrupção (art. 159 e parágrafo único)",
+  "dispositivo": "art. 159, Lei 14.133/2021"
+ },
+ {
+  "questao": "Empresa vencedora de licitação estadual é investigada por conluio para fraudar o caráter competitivo do certame. A conduta é infração da Lei 14.133/2021 e ato lesivo da Lei 12.846/2013. Qual o procedimento?",
+  "gabarito": "B — art. 159, Lei 14.133/2021",
+  "comentario": "**Correta (B):** quando a mesma conduta é infração da Lei de Licitações e ato lesivo da Lei Anticorrupção, a apuração e o julgamento são **conjuntos, nos mesmos autos**, com o **rito e a autoridade competente da Lei 12.846/2013** (art. 159).\n\n**A e D:** a Lei 14.133 manda seguir o rito da Lei Anticorrupção, não o próprio. **C:** não há processos separados; a apuração é conjunta. **E:** há previsão expressa (art. 159), e não se cria procedimento novo.",
+  "criado": "2026-11-25",
+  "macete": "Impedimento: até 3 no ente; inidoneidade: 3 a 6 em todos",
+  "id": "c60",
+  "materia": "Administrativo",
+  "assunto": "Licitações",
+  "frente": "Sanções da Lei 14.133/2021 (art. 156)",
+  "verso": "(1) **Advertência**; (2) **multa** de **0,5% a 30%** do valor do contrato; (3) **impedimento de licitar e contratar**: até **3 anos**, no âmbito do **ente que sancionou**; (4) **declaração de inidoneidade**: de **3 a 6 anos**, em **todos os entes** da Federação",
+  "dispositivo": "art. 156, Lei 14.133/2021"
+ },
+ {
+  "questao": "Empresa vencedora de licitação estadual é investigada por conluio para fraudar o caráter competitivo do certame. A conduta é infração da Lei 14.133/2021 e ato lesivo da Lei 12.846/2013. Qual o procedimento?",
+  "gabarito": "B — art. 159, Lei 14.133/2021",
+  "comentario": "**Correta (B):** quando a mesma conduta é infração da Lei de Licitações e ato lesivo da Lei Anticorrupção, a apuração e o julgamento são **conjuntos, nos mesmos autos**, com o **rito e a autoridade competente da Lei 12.846/2013** (art. 159).\n\n**A e D:** a Lei 14.133 manda seguir o rito da Lei Anticorrupção, não o próprio. **C:** não há processos separados; a apuração é conjunta. **E:** há previsão expressa (art. 159), e não se cria procedimento novo.",
+  "criado": "2026-11-25",
+  "macete": "",
+  "id": "c61",
+  "materia": "Administrativo",
+  "assunto": "Lei Anticorrupção",
+  "frente": "Lei Anticorrupção: sanções administrativas à pessoa jurídica",
+  "verso": "(1) **Multa** de **0,1% a 20% do faturamento bruto** do exercício anterior ao da instauração do processo, nunca inferior à vantagem auferida (art. 6º, I); (2) **publicação extraordinária** da decisão condenatória (art. 6º, II); (3) responsabilidade **objetiva** da pessoa jurídica (art. 1º); (4) as sanções **não excluem** a reparação integral do dano",
+  "dispositivo": "arts. 1º e 6º, Lei 12.846/2013"
  }
 ]
