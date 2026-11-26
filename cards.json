@@ -934,5 +934,31 @@
   "frente": "Evicção da coisa dada em pagamento: o que o credor exige",
   "verso": "(1) A **prestação original**, como se a dação não tivesse ocorrido (art. 359); (2) **mais perdas e danos**; (3) **não** exige o valor da coisa evicta nem outra coisa do mesmo gênero; (4) ficam **ressalvados os direitos de terceiros** de boa-fé",
   "dispositivo": "art. 359, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Contratos em geral",
+  "questao": "Arquiteta negocia por meses com grande empresa, troca minutas, compra amostras e protótipos e investe tempo e dinheiro. Quando dava a contratação como certa, a empresa desiste sem justificativa. Ela pede a celebração forçada do contrato ou indenização.",
+  "gabarito": "C — art. 422, CC; Enunciados 25 e 170 da Jornada de Direito Civil",
+  "comentario": "**Correta (C):** a boa-fé objetiva vale também nas **negociações preliminares**. A ruptura **injustificada**, depois de criar **confiança legítima** na contratação, é comportamento contraditório (*venire contra factum proprium*) e gera **dever de indenizar** os prejuízos.\n\n**A e B:** a liberdade de contratar não autoriza romper negociações de forma desleal; a responsabilidade pré-contratual decorre da boa-fé objetiva, não da violação de direito absoluto. **D:** a boa-fé é **objetiva**; não se exige dolo ou má-fé. **E:** não existe contratação forçada; a liberdade de contratar é preservada, e a consequência é só a indenização.",
+  "criado": "2026-11-26",
+  "macete": "Pode desistir, mas paga a confiança que quebrou",
+  "id": "c73",
+  "frente": "Ruptura injustificada das negociações: responsabilidade pré-contratual",
+  "verso": "(1) A **boa-fé objetiva** vale nas **negociações preliminares** (art. 422, CC; Enunciados **25** e **170** CJF); (2) romper sem justificativa, depois de criar **confiança legítima**, é **comportamento contraditório** e gera **dever de indenizar**; (3) **não exige dolo ou má-fé**, porque a boa-fé é objetiva; (4) **não** gera **contratação forçada**: a liberdade de contratar fica preservada",
+  "dispositivo": "art. 422, CC; Enunciados 25 e 170 CJF"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Contratos em geral",
+  "questao": "Arquiteta negocia por meses com grande empresa, troca minutas, compra amostras e protótipos e investe tempo e dinheiro. Quando dava a contratação como certa, a empresa desiste sem justificativa. Ela pede a celebração forçada do contrato ou indenização.",
+  "gabarito": "C — art. 422, CC; Enunciados 25 e 170 da Jornada de Direito Civil",
+  "comentario": "**Correta (C):** a boa-fé objetiva vale também nas **negociações preliminares**. A ruptura **injustificada**, depois de criar **confiança legítima** na contratação, é comportamento contraditório (*venire contra factum proprium*) e gera **dever de indenizar** os prejuízos.\n\n**A e B:** a liberdade de contratar não autoriza romper negociações de forma desleal; a responsabilidade pré-contratual decorre da boa-fé objetiva, não da violação de direito absoluto. **D:** a boa-fé é **objetiva**; não se exige dolo ou má-fé. **E:** não existe contratação forçada; a liberdade de contratar é preservada, e a consequência é só a indenização.",
+  "criado": "2026-11-26",
+  "macete": "",
+  "id": "c74",
+  "frente": "Responsabilidade pré-contratual: o que se indeniza",
+  "verso": "(1) O **interesse negativo** (ou de confiança): as **despesas** e os **prejuízos** sofridos por confiar que o contrato seria celebrado; (2) **não** o **interesse positivo**, que é o lucro que o contrato traria se fosse celebrado e cumprido",
+  "dispositivo": "art. 422, CC"
  }
 ]
