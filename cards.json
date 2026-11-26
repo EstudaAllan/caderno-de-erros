@@ -1103,5 +1103,57 @@
   "frente": "Bem de família: situações especiais (STJ)",
   "verso": "(1) **Imóvel em construção**: **protegido**; (2) imóvel **adquirido no curso da execução**: em regra **protegido**, salvo fraude; (3) imóvel em nome de **pessoa jurídica** que serve de moradia aos sócios: pode ser protegido; (4) se **um herdeiro** mora no imóvel, a proteção alcança o **todo**, salvo imóvel **divisível**; (5) imóvel ainda **no inventário**, sem partilha: a proteção **se mantém**",
   "dispositivo": "Lei 8.009/1990; jurisprudência do STJ"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Contratos em espécie",
+  "questao": "Natalina, 83 anos, doa seu amplo patrimônio ao namorado João, reservando o usufruto das ações. Após a morte dela, o filho Tiago obtém sentença anulando integralmente a doação. João propõe ação rescisória, alegando também ter cumprido o encargo imposto.",
+  "gabarito": "C — arts. 548 e 549, CC",
+  "comentario": "**Correta (C):** como Natalina **reservou o usufruto** das ações, ficou com renda para se manter, e a doação **não** é universal (art. 548). Mas, havendo herdeiro necessário, a doação além da parte disponível é **inoficiosa**, e a nulidade atinge **só o excesso** (art. 549). Anular tudo violou a norma, então a rescisória procede para **reduzir** a doação.\n\n**A:** a reserva de usufruto afasta a doação universal. **B:** *pacta corvina* é contrato sobre herança de pessoa viva (art. 426), outra coisa. **D:** a doação com encargo continua liberalidade no que excede o valor do encargo (art. 540). **E:** a questão é de direito civil, e o crime do Estatuto da Pessoa Idosa não decide a validade da doação.",
+  "criado": "2026-11-26",
+  "macete": "Reservou usufruto, não é universal",
+  "id": "c86",
+  "frente": "Doação universal (art. 548, CC)",
+  "verso": "(1) É **nula** a doação de **todos os bens** sem reserva de parte ou de **renda suficiente** para a subsistência do doador; (2) protege o **próprio doador**; (3) a **reserva de usufruto** basta para afastar a nulidade",
+  "dispositivo": "art. 548, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Contratos em espécie",
+  "questao": "Natalina, 83 anos, doa seu amplo patrimônio ao namorado João, reservando o usufruto das ações. Após a morte dela, o filho Tiago obtém sentença anulando integralmente a doação. João propõe ação rescisória, alegando também ter cumprido o encargo imposto.",
+  "gabarito": "C — arts. 548 e 549, CC",
+  "comentario": "**Correta (C):** como Natalina **reservou o usufruto** das ações, ficou com renda para se manter, e a doação **não** é universal (art. 548). Mas, havendo herdeiro necessário, a doação além da parte disponível é **inoficiosa**, e a nulidade atinge **só o excesso** (art. 549). Anular tudo violou a norma, então a rescisória procede para **reduzir** a doação.\n\n**A:** a reserva de usufruto afasta a doação universal. **B:** *pacta corvina* é contrato sobre herança de pessoa viva (art. 426), outra coisa. **D:** a doação com encargo continua liberalidade no que excede o valor do encargo (art. 540). **E:** a questão é de direito civil, e o crime do Estatuto da Pessoa Idosa não decide a validade da doação.",
+  "criado": "2026-11-26",
+  "macete": "",
+  "id": "c87",
+  "frente": "Doação inoficiosa (art. 549, CC)",
+  "verso": "(1) É **nula só a parte** que **exceder** o que o doador poderia dispor em testamento **no momento da liberalidade**; (2) protege os **herdeiros necessários**; (3) consequência: **redução** ao limite da parte disponível, e **não** nulidade total",
+  "dispositivo": "art. 549, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Contratos em espécie",
+  "questao": "Natalina, 83 anos, doa seu amplo patrimônio ao namorado João, reservando o usufruto das ações. Após a morte dela, o filho Tiago obtém sentença anulando integralmente a doação. João propõe ação rescisória, alegando também ter cumprido o encargo imposto.",
+  "gabarito": "C — arts. 548 e 549, CC",
+  "comentario": "**Correta (C):** como Natalina **reservou o usufruto** das ações, ficou com renda para se manter, e a doação **não** é universal (art. 548). Mas, havendo herdeiro necessário, a doação além da parte disponível é **inoficiosa**, e a nulidade atinge **só o excesso** (art. 549). Anular tudo violou a norma, então a rescisória procede para **reduzir** a doação.\n\n**A:** a reserva de usufruto afasta a doação universal. **B:** *pacta corvina* é contrato sobre herança de pessoa viva (art. 426), outra coisa. **D:** a doação com encargo continua liberalidade no que excede o valor do encargo (art. 540). **E:** a questão é de direito civil, e o crime do Estatuto da Pessoa Idosa não decide a validade da doação.",
+  "criado": "2026-11-26",
+  "macete": "Universal: doador; inoficiosa: herdeiro; corvina: herança de vivo",
+  "id": "c88",
+  "frente": "Par-pegadinha: doação universal × inoficiosa × pacta corvina",
+  "verso": "**Universal (art. 548):** doa tudo sem reservar renda; protege o **doador**; nulidade **total**. **Inoficiosa (art. 549):** invade a legítima; protege os **herdeiros necessários**; nulidade **só do excesso**. **Pacta corvina (art. 426):** contrato sobre **herança de pessoa viva**; vedado",
+  "dispositivo": "arts. 426, 548 e 549, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Contratos em espécie",
+  "questao": "Natalina, 83 anos, doa seu amplo patrimônio ao namorado João, reservando o usufruto das ações. Após a morte dela, o filho Tiago obtém sentença anulando integralmente a doação. João propõe ação rescisória, alegando também ter cumprido o encargo imposto.",
+  "gabarito": "C — arts. 548 e 549, CC",
+  "comentario": "**Correta (C):** como Natalina **reservou o usufruto** das ações, ficou com renda para se manter, e a doação **não** é universal (art. 548). Mas, havendo herdeiro necessário, a doação além da parte disponível é **inoficiosa**, e a nulidade atinge **só o excesso** (art. 549). Anular tudo violou a norma, então a rescisória procede para **reduzir** a doação.\n\n**A:** a reserva de usufruto afasta a doação universal. **B:** *pacta corvina* é contrato sobre herança de pessoa viva (art. 426), outra coisa. **D:** a doação com encargo continua liberalidade no que excede o valor do encargo (art. 540). **E:** a questão é de direito civil, e o crime do Estatuto da Pessoa Idosa não decide a validade da doação.",
+  "criado": "2026-11-26",
+  "macete": "",
+  "id": "c89",
+  "frente": "Doação com encargo (onerosa)",
+  "verso": "(1) **Não perde o caráter de liberalidade** no valor que **exceder** o do encargo (art. 540); (2) o doador pode **exigir** o cumprimento do encargo; depois da morte dele, o **MP** pode exigir se o encargo for de interesse geral (art. 553); (3) a **inexecução do encargo** permite **revogar** a doação (art. 555)",
+  "dispositivo": "arts. 540, 553 e 555, CC"
  }
 ]
