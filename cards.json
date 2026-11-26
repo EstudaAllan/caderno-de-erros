@@ -1038,5 +1038,70 @@
   "frente": "Indignidade: como se declara",
   "verso": "(1) Por **sentença** em ação própria, proposta em **4 anos** da **abertura da sucessão** (art. 1.815); (2) o **MP** tem legitimidade no caso de **homicídio** doloso (art. 1.815, §2º); (3) com **sentença penal condenatória transitada** pelos atos de indignidade, a exclusão é **imediata** (art. 1.815-A, Lei 14.661/2023); (4) atinge **qualquer** herdeiro ou legatário",
   "dispositivo": "arts. 1.815 e 1.815-A, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Bem de família",
+  "questao": "Casal assina mútuo bancário sem garantia real, com cláusula em que renuncia à proteção do único imóvel residencial da família. Na execução, invoca o bem de família; o banco alega a validade da renúncia.",
+  "gabarito": "E — Lei 8.009/1990",
+  "comentario": "**Correta (E):** a impenhorabilidade do bem de família legal é de **ordem pública**; a renúncia prévia e genérica é **ineficaz**, e o devedor pode invocá-la depois.\n\n**A e B:** a autonomia privada não alcança essa proteção. **C:** nem por escritura averbada a renúncia vale; a escritura e o registro são próprios do bem de família **voluntário** (art. 1.711 do CC). **D:** dívida de mútuo bancário comum **não** está entre as exceções do art. 3º da Lei 8.009.",
+  "criado": "2026-11-26",
+  "macete": "Não dá para renunciar, mas dá para vender ou dar em garantia",
+  "id": "c81",
+  "frente": "Bem de família legal: renúncia e disposição",
+  "verso": "(1) A impenhorabilidade é de **ordem pública**: a **renúncia prévia e genérica** é ineficaz, e o devedor pode invocá-la depois; (2) mas **não gera inalienabilidade**: o dono pode **vender** o imóvel ou dá-lo **em garantia**, inclusive em **alienação fiduciária** (STJ); (3) dívida bancária comum **não** é exceção legal",
+  "dispositivo": "Lei 8.009/1990"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Bem de família",
+  "questao": "",
+  "gabarito": "",
+  "comentario": "",
+  "criado": "2026-11-26",
+  "macete": "Financiou, alimentos, tributo do imóvel, hipoteca, crime, fiança",
+  "id": "c82",
+  "frente": "Bem de família: exceções à impenhorabilidade (art. 3º, Lei 8.009)",
+  "verso": "(1) **Financiamento** para construção ou aquisição do próprio imóvel; (2) **pensão alimentícia**; (3) **impostos, taxas e contribuições** devidos em função do imóvel, incluídas as **cotas condominiais** (obrigações *propter rem*); (4) execução de **hipoteca** dada pelo casal ou pela entidade familiar; (5) imóvel adquirido com **produto de crime** ou execução de **sentença penal condenatória** para ressarcimento, indenização ou perdimento; (6) **fiança em locação**",
+  "dispositivo": "art. 3º, Lei 8.009/1990"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Bem de família",
+  "questao": "",
+  "gabarito": "",
+  "comentario": "",
+  "criado": "2026-11-26",
+  "macete": "",
+  "id": "c83",
+  "frente": "Bem de família do fiador em locação",
+  "verso": "(1) É **penhorável** o bem de família do **fiador** em contrato de locação (**Súmula 549/STJ**); (2) vale para locação **residencial e comercial** (STF, **Tema 1.127**); (3) as exceções têm **interpretação restritiva**: a do fiador **não** se estende ao **devedor solidário** (STJ)",
+  "dispositivo": "art. 3º, VII, Lei 8.009; Súmula 549/STJ; Tema 1.127/STF"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Bem de família",
+  "questao": "",
+  "gabarito": "",
+  "comentario": "",
+  "criado": "2026-11-26",
+  "macete": "",
+  "id": "c84",
+  "frente": "Bem de família: súmulas do STJ",
+  "verso": "(1) **Súm. 364:** protege também o imóvel de pessoas **solteiras, separadas e viúvas**; (2) **Súm. 486:** é impenhorável o único imóvel **locado a terceiros** se a renda vai para a **subsistência ou moradia** da família; (3) **Súm. 205:** a Lei 8.009 atinge **penhoras anteriores** à sua vigência; (4) **Súm. 449:** **vaga de garagem com matrícula própria** **não** é bem de família; penhorada, só pode ser vendida a **condôminos**, salvo autorização na convenção (art. 1.331, §1º, CC)",
+  "dispositivo": "Súmulas 205, 364, 449 e 486/STJ"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Bem de família",
+  "questao": "",
+  "gabarito": "",
+  "comentario": "",
+  "criado": "2026-11-26",
+  "macete": "",
+  "id": "c85",
+  "frente": "Bem de família: situações especiais (STJ)",
+  "verso": "(1) **Imóvel em construção** ou terreno onde a família pretende morar: **protegido**; (2) imóvel **adquirido no curso da execução**: em regra **protegido**, salvo fraude; (3) imóvel em nome de **pessoa jurídica** que serve de moradia aos sócios: pode ser protegido; (4) se **um herdeiro** mora no imóvel, a proteção alcança o **todo**, salvo imóvel **divisível**; (5) imóvel ainda **no inventário**, sem partilha: a proteção **se mantém**",
+  "dispositivo": "Lei 8.009/1990; jurisprudência do STJ"
  }
 ]
