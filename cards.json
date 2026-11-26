@@ -960,5 +960,44 @@
   "frente": "Responsabilidade pré-contratual: o que se indeniza",
   "verso": "(1) O **interesse negativo** (ou de confiança): as **despesas** e os **prejuízos** sofridos por confiar que o contrato seria celebrado; (2) **não** o **interesse positivo**, que é o lucro que o contrato traria se fosse celebrado e cumprido",
   "dispositivo": "art. 422, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Casamento e união estável",
+  "questao": "João, em risco iminente de morte após acidente em local de difícil acesso e sem autoridade presente, declara perante seis testemunhas a vontade de casar com Marina. As testemunhas confirmam o fato perante a autoridade no prazo legal, mas João morre antes da decisão judicial no procedimento de verificação.",
+  "gabarito": "B — arts. 1.540 e 1.541, CC",
+  "comentario": "**Correta (B):** é o **casamento nuncupativo** (in extremis). Depois das declarações das testemunhas, o juiz verifica se os nubentes **poderiam ter se habilitado** e decide (art. 1.541, §§ 1º e 2º). A morte não impede o reconhecimento, e os efeitos **retroagem à data da celebração** (§4º).\n\n**A:** não há reconhecimento automático; o controle judicial é obrigatório. **C e E:** o juiz faz juízo de **validade**, verificando a idoneidade dos nubentes, e pode negar o reconhecimento. **D:** a morte não impede a conclusão do procedimento; a lei prevê justamente o caso de quem não sobrevive.",
+  "criado": "2026-11-26",
+  "macete": "Nuncupativo: risco de vida, sem juiz, 6 testemunhas",
+  "id": "c75",
+  "frente": "Casamento nuncupativo: requisitos (art. 1.540, CC)",
+  "verso": "(1) Nubente em **iminente risco de vida**; (2) **sem** a presença da autoridade ou de seu substituto; (3) declaração perante **6 testemunhas** sem parentesco com os nubentes em linha reta ou colateral até o **2º grau**; (4) **dispensa** a habilitação prévia",
+  "dispositivo": "art. 1.540, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Casamento e união estável",
+  "questao": "João, em risco iminente de morte após acidente em local de difícil acesso e sem autoridade presente, declara perante seis testemunhas a vontade de casar com Marina. As testemunhas confirmam o fato perante a autoridade no prazo legal, mas João morre antes da decisão judicial no procedimento de verificação.",
+  "gabarito": "B — arts. 1.540 e 1.541, CC",
+  "comentario": "**Correta (B):** é o **casamento nuncupativo** (in extremis). Depois das declarações das testemunhas, o juiz verifica se os nubentes **poderiam ter se habilitado** e decide (art. 1.541, §§ 1º e 2º). A morte não impede o reconhecimento, e os efeitos **retroagem à data da celebração** (§4º).\n\n**A:** não há reconhecimento automático; o controle judicial é obrigatório. **C e E:** o juiz faz juízo de **validade**, verificando a idoneidade dos nubentes, e pode negar o reconhecimento. **D:** a morte não impede a conclusão do procedimento; a lei prevê justamente o caso de quem não sobrevive.",
+  "criado": "2026-11-26",
+  "macete": "",
+  "id": "c76",
+  "frente": "Casamento nuncupativo: procedimento posterior (art. 1.541, CC)",
+  "verso": "(1) As testemunhas comparecem em **10 dias** perante a autoridade judicial mais próxima; (2) o juiz verifica, em **15 dias**, se os nubentes **poderiam ter se habilitado** e **decide**, com recurso; (3) transitada a decisão, manda **registrar**; (4) os efeitos **retroagem à data da celebração** (§4º); (5) a **morte** do nubente **não impede** o reconhecimento; (6) se o enfermo **convalescer**, basta **ratificar** perante a autoridade (§5º)",
+  "dispositivo": "art. 1.541, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Casamento e união estável",
+  "questao": "João, em risco iminente de morte após acidente em local de difícil acesso e sem autoridade presente, declara perante seis testemunhas a vontade de casar com Marina. As testemunhas confirmam o fato perante a autoridade no prazo legal, mas João morre antes da decisão judicial no procedimento de verificação.",
+  "gabarito": "B — arts. 1.540 e 1.541, CC",
+  "comentario": "**Correta (B):** é o **casamento nuncupativo** (in extremis). Depois das declarações das testemunhas, o juiz verifica se os nubentes **poderiam ter se habilitado** e decide (art. 1.541, §§ 1º e 2º). A morte não impede o reconhecimento, e os efeitos **retroagem à data da celebração** (§4º).\n\n**A:** não há reconhecimento automático; o controle judicial é obrigatório. **C e E:** o juiz faz juízo de **validade**, verificando a idoneidade dos nubentes, e pode negar o reconhecimento. **D:** a morte não impede a conclusão do procedimento; a lei prevê justamente o caso de quem não sobrevive.",
+  "criado": "2026-11-26",
+  "macete": "Moléstia: juiz vai, 2 testemunhas. Nuncupativo: sem juiz, 6 testemunhas",
+  "id": "c77",
+  "frente": "Par-pegadinha: casamento nuncupativo × casamento em caso de moléstia grave",
+  "verso": "**Moléstia grave (art. 1.539):** já houve habilitação; a **autoridade vai até o enfermo**, mesmo à noite, com **2 testemunhas** que saibam ler e escrever. **Nuncupativo (art. 1.540):** **sem autoridade** e **sem habilitação**, perante **6 testemunhas**, com verificação judicial posterior",
+  "dispositivo": "arts. 1.539 e 1.540, CC"
  }
 ]
