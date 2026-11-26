@@ -869,5 +869,44 @@
   "frente": "Par-pegadinha: contas do prefeito × contas do Presidente",
   "verso": "**Prefeito:** julgadas pela **Câmara**; o parecer prévio do TC só cai por **2/3** dos vereadores (eficácia reforçada, art. 31, §2º). **Presidente:** julgadas pelo **Congresso** (art. 49, IX); o TCU emite parecer prévio em **60 dias** (art. 71, I), **sem** quórum qualificado para afastá-lo",
   "dispositivo": "arts. 31, 49, IX, e 71, I, CF"
+ },
+ {
+  "questao": "Matheus, primário, condenado por crime em contexto de violência doméstica, teve a pena suspensa por 2 anos, com prestação de serviços no 1º ano. Quais hipóteses levam à revogação do sursis: I condenação irrecorrível por crime doloso ou culposo; II frustrar multa sendo solvente ou não reparar o dano sem justificativa; III descumprir a prestação de serviços?",
+  "gabarito": "D — II e III (art. 81, caput, II e III, CP)",
+  "comentario": "**II e III, corretas:** são hipóteses de revogação **obrigatória** (art. 81, II e III).\n\n**I, errada:** a condenação irrecorrível por crime **doloso** gera revogação obrigatória (art. 81, I), mas por crime **culposo** só gera revogação **facultativa**, e apenas se a pena for privativa de liberdade ou restritiva de direitos (art. 81, §1º). Ao juntar doloso e culposo, o item ficou errado.",
+  "criado": "2026-11-26",
+  "macete": "Obrigatória: doloso, multa ou dano, condição do 1º ano",
+  "id": "c68",
+  "materia": "Penal",
+  "assunto": "Parte Geral",
+  "frente": "Sursis: revogação obrigatória (art. 81, caput, CP)",
+  "verso": "(1) Condenação irrecorrível por crime **doloso**; (2) **frustrar**, sendo solvente, a execução da **multa** ou **não reparar o dano** sem motivo justificado; (3) **descumprir** a condição do **1º ano**: prestação de serviços à comunidade ou limitação de fim de semana (art. 78, §1º)",
+  "dispositivo": "art. 81, caput, CP"
+ },
+ {
+  "questao": "Matheus, primário, condenado por crime em contexto de violência doméstica, teve a pena suspensa por 2 anos, com prestação de serviços no 1º ano. Quais hipóteses levam à revogação do sursis: I condenação irrecorrível por crime doloso ou culposo; II frustrar multa sendo solvente ou não reparar o dano sem justificativa; III descumprir a prestação de serviços?",
+  "gabarito": "D — II e III (art. 81, caput, II e III, CP)",
+  "comentario": "**II e III, corretas:** são hipóteses de revogação **obrigatória** (art. 81, II e III).\n\n**I, errada:** a condenação irrecorrível por crime **doloso** gera revogação obrigatória (art. 81, I), mas por crime **culposo** só gera revogação **facultativa**, e apenas se a pena for privativa de liberdade ou restritiva de direitos (art. 81, §1º). Ao juntar doloso e culposo, o item ficou errado.",
+  "criado": "2026-11-26",
+  "macete": "Culposo ou contravenção: o juiz escolhe",
+  "id": "c69",
+  "materia": "Penal",
+  "assunto": "Parte Geral",
+  "frente": "Sursis: revogação facultativa e prorrogação (art. 81, §§ 1º a 3º, CP)",
+  "verso": "(1) **Facultativa:** descumprir **qualquer outra condição** ou ser condenado irrecorrivelmente por crime **culposo** ou **contravenção** a pena privativa de liberdade ou restritiva de direitos (§1º); (2) se o beneficiário está sendo **processado** por outro crime ou contravenção, o prazo **prorroga-se** até o julgamento definitivo (§2º); (3) na hipótese facultativa, o juiz pode, em vez de revogar, **prorrogar** o período de prova até o **máximo** (§3º)",
+  "dispositivo": "art. 81, §§ 1º a 3º, CP"
+ },
+ {
+  "questao": "Matheus, primário, condenado por crime em contexto de violência doméstica, teve a pena suspensa por 2 anos, com prestação de serviços no 1º ano. Quais hipóteses levam à revogação do sursis: I condenação irrecorrível por crime doloso ou culposo; II frustrar multa sendo solvente ou não reparar o dano sem justificativa; III descumprir a prestação de serviços?",
+  "gabarito": "D — II e III (art. 81, caput, II e III, CP)",
+  "comentario": "**II e III, corretas:** são hipóteses de revogação **obrigatória** (art. 81, II e III).\n\n**I, errada:** a condenação irrecorrível por crime **doloso** gera revogação obrigatória (art. 81, I), mas por crime **culposo** só gera revogação **facultativa**, e apenas se a pena for privativa de liberdade ou restritiva de direitos (art. 81, §1º). Ao juntar doloso e culposo, o item ficou errado.",
+  "criado": "2026-11-26",
+  "macete": "Substituir não pode; suspender pode",
+  "id": "c70",
+  "materia": "Penal",
+  "assunto": "Violência doméstica",
+  "frente": "Violência doméstica contra a mulher: sursis × substituição da pena",
+  "verso": "(1) **Substituição** por restritiva de direitos: **vedada** em crime ou contravenção com violência ou grave ameaça contra a mulher no ambiente doméstico (**Súmula 588/STJ**); (2) vedadas penas de **cesta básica**, prestação pecuniária e **multa isolada** (art. 17, Lei 11.340/06); (3) **sursis**: **cabível**, se preenchidos os requisitos do art. 77 do CP",
+  "dispositivo": "Súmula 588/STJ; art. 17, Lei 11.340/06; art. 77, CP"
  }
 ]
