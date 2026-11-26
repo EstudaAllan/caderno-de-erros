@@ -908,5 +908,31 @@
   "frente": "Violência doméstica contra a mulher: sursis × substituição da pena",
   "verso": "(1) **Substituição** por restritiva de direitos: **vedada** em crime ou contravenção com violência ou grave ameaça contra a mulher no ambiente doméstico (**Súmula 588/STJ**); (2) vedadas penas de **cesta básica**, prestação pecuniária e **multa isolada** (art. 17, Lei 11.340/06); (3) **sursis**: **cabível**, se preenchidos os requisitos do art. 77 do CP",
   "dispositivo": "Súmula 588/STJ; art. 17, Lei 11.340/06; art. 77, CP"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Obrigações",
+  "questao": "Ademilson pega emprestado um pulverizador de Diocleciano. No vencimento, em vez de devolver, oferece uma moto, e Diocleciano aceita. Dias depois a moto é apreendida por ser roubada. O que Diocleciano pode exigir?",
+  "gabarito": "D — art. 359, CC",
+  "comentario": "**Correta (D):** houve **dação em pagamento** (art. 356). Se o credor é **evicto** da coisa recebida, **restabelece-se a obrigação primitiva** e fica sem efeito a quitação (art. 359). A obrigação original era **restituir o pulverizador** emprestado, então é isso que Diocleciano pode exigir, além de perdas e danos.\n\n**A e C:** não se exige coisa nova nem do mesmo gênero; volta a obrigação original. **B:** não se cobra o valor da moto; a dação fica sem efeito. **E:** o valor do pulverizador só seria cabível se ele tivesse perecido; a coisa original existe e deve ser devolvida.",
+  "criado": "2026-11-26",
+  "macete": "Evicção na dação: a dívida original ressuscita",
+  "id": "c71",
+  "frente": "Dação em pagamento: regras (arts. 356 a 359, CC)",
+  "verso": "(1) O credor **consente** em receber prestação **diversa** da devida (art. 356); (2) fixado o preço da coisa, aplicam-se as regras da **compra e venda** (art. 357); (3) se a coisa dada for **título de crédito**, a transferência importa **cessão** (art. 358); (4) se o credor for **evicto** da coisa recebida, **restabelece-se a obrigação primitiva** e fica **sem efeito a quitação**, ressalvados os direitos de terceiros (art. 359)",
+  "dispositivo": "arts. 356 a 359, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Obrigações",
+  "questao": "Ademilson pega emprestado um pulverizador de Diocleciano. No vencimento, em vez de devolver, oferece uma moto, e Diocleciano aceita. Dias depois a moto é apreendida por ser roubada. O que Diocleciano pode exigir?",
+  "gabarito": "D — art. 359, CC",
+  "comentario": "**Correta (D):** houve **dação em pagamento** (art. 356). Se o credor é **evicto** da coisa recebida, **restabelece-se a obrigação primitiva** e fica sem efeito a quitação (art. 359). A obrigação original era **restituir o pulverizador** emprestado, então é isso que Diocleciano pode exigir, além de perdas e danos.\n\n**A e C:** não se exige coisa nova nem do mesmo gênero; volta a obrigação original. **B:** não se cobra o valor da moto; a dação fica sem efeito. **E:** o valor do pulverizador só seria cabível se ele tivesse perecido; a coisa original existe e deve ser devolvida.",
+  "criado": "2026-11-26",
+  "macete": "",
+  "id": "c72",
+  "frente": "Evicção da coisa dada em pagamento: o que o credor exige",
+  "verso": "(1) A **prestação original**, como se a dação não tivesse ocorrido (art. 359); (2) **mais perdas e danos**; (3) **não** exige o valor da coisa evicta nem outra coisa do mesmo gênero; (4) ficam **ressalvados os direitos de terceiros** de boa-fé",
+  "dispositivo": "art. 359, CC"
  }
 ]
