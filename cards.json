@@ -999,5 +999,44 @@
   "frente": "Par-pegadinha: casamento nuncupativo × casamento em caso de moléstia grave",
   "verso": "**Moléstia grave (art. 1.539):** já houve habilitação; a **autoridade vai até o enfermo**, mesmo à noite, com **2 testemunhas** que saibam ler e escrever. **Nuncupativo (art. 1.540):** **sem autoridade** e **sem habilitação**, perante **6 testemunhas**, com verificação judicial posterior",
   "dispositivo": "arts. 1.539 e 1.540, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Sucessões",
+  "questao": "Humberto deserda o filho Renato em testamento público, alegando agressões físicas com lesões corporais. No inventário, o irmão Marcelo pede a exclusão imediata de Renato, alegando também indignidade. Renato diz que não há condenação criminal transitada em julgado e pede para ser incluído como herdeiro necessário.",
+  "gabarito": "D — art. 1.965, CC",
+  "comentario": "**Correta (D):** a deserdação não opera sozinha: cabe ao herdeiro instituído ou a quem dela se beneficia **provar a veracidade da causa** alegada pelo testador, em ação própria, no prazo de **4 anos** da abertura do testamento (art. 1.965).\n\n**A:** não há exclusão de ofício no inventário; além disso, **ofensa física** é causa de **deserdação** (art. 1.962, I), mas **não** de indignidade (art. 1.814). **B:** nenhuma das duas exige condenação criminal prévia. **C e E:** a cláusula não tem efeito imediato, e o ônus da prova é de quem se beneficia, não do deserdado.",
+  "criado": "2026-11-26",
+  "macete": "Testador acusa, beneficiado prova",
+  "id": "c78",
+  "frente": "Deserdação: como produz efeito",
+  "verso": "(1) Só por **testamento**, com **declaração expressa da causa** (art. 1.964); (2) **não** tem efeito imediato: quem **se beneficia** deve **provar a causa** em ação, no prazo de **4 anos** da **abertura do testamento** (art. 1.965); (3) **não** exige condenação criminal prévia; (4) atinge só **herdeiros necessários**",
+  "dispositivo": "arts. 1.964 e 1.965, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Sucessões",
+  "questao": "Humberto deserda o filho Renato em testamento público, alegando agressões físicas com lesões corporais. No inventário, o irmão Marcelo pede a exclusão imediata de Renato, alegando também indignidade. Renato diz que não há condenação criminal transitada em julgado e pede para ser incluído como herdeiro necessário.",
+  "gabarito": "D — art. 1.965, CC",
+  "comentario": "**Correta (D):** a deserdação não opera sozinha: cabe ao herdeiro instituído ou a quem dela se beneficia **provar a veracidade da causa** alegada pelo testador, em ação própria, no prazo de **4 anos** da abertura do testamento (art. 1.965).\n\n**A:** não há exclusão de ofício no inventário; além disso, **ofensa física** é causa de **deserdação** (art. 1.962, I), mas **não** de indignidade (art. 1.814). **B:** nenhuma das duas exige condenação criminal prévia. **C e E:** a cláusula não tem efeito imediato, e o ônus da prova é de quem se beneficia, não do deserdado.",
+  "criado": "2026-11-26",
+  "macete": "Lesão corporal deserda, mas não torna indigno",
+  "id": "c79",
+  "frente": "Par-pegadinha: deserdação × indignidade (causas)",
+  "verso": "**Indignidade (art. 1.814):** (1) homicídio doloso, tentado ou consumado, contra o autor da herança, cônjuge, companheiro, ascendente ou descendente; (2) acusação caluniosa em juízo ou crime contra a honra deles; (3) violência ou fraude contra a liberdade de testar. **Deserdação:** essas causas **mais** as dos arts. 1.962 e 1.963: **ofensa física**, **injúria grave**, relações ilícitas com madrasta, padrasto, nora ou genro, e **desamparo** em alienação mental ou grave enfermidade",
+  "dispositivo": "arts. 1.814, 1.962 e 1.963, CC"
+ },
+ {
+  "materia": "Civil",
+  "assunto": "Sucessões",
+  "questao": "Humberto deserda o filho Renato em testamento público, alegando agressões físicas com lesões corporais. No inventário, o irmão Marcelo pede a exclusão imediata de Renato, alegando também indignidade. Renato diz que não há condenação criminal transitada em julgado e pede para ser incluído como herdeiro necessário.",
+  "gabarito": "D — art. 1.965, CC",
+  "comentario": "**Correta (D):** a deserdação não opera sozinha: cabe ao herdeiro instituído ou a quem dela se beneficia **provar a veracidade da causa** alegada pelo testador, em ação própria, no prazo de **4 anos** da abertura do testamento (art. 1.965).\n\n**A:** não há exclusão de ofício no inventário; além disso, **ofensa física** é causa de **deserdação** (art. 1.962, I), mas **não** de indignidade (art. 1.814). **B:** nenhuma das duas exige condenação criminal prévia. **C e E:** a cláusula não tem efeito imediato, e o ônus da prova é de quem se beneficia, não do deserdado.",
+  "criado": "2026-11-26",
+  "macete": "",
+  "id": "c80",
+  "frente": "Indignidade: como se declara",
+  "verso": "(1) Por **sentença** em ação própria, proposta em **4 anos** da **abertura da sucessão** (art. 1.815); (2) o **MP** tem legitimidade no caso de **homicídio** doloso (art. 1.815, §2º); (3) com **sentença penal condenatória transitada** pelos atos de indignidade, a exclusão é **imediata** (art. 1.815-A, Lei 14.661/2023); (4) atinge **qualquer** herdeiro ou legatário",
+  "dispositivo": "arts. 1.815 e 1.815-A, CC"
  }
 ]
